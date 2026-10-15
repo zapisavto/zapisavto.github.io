@@ -1,0 +1,26 @@
+name: Собрать переадресации
+on:
+  workflow_dispatch:
+  push:
+    paths: ["tools/**"]
+permissions:
+  contents: write
+concurrency: build
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node tools/build.mjs
+      - name: Сохранить
+        run: |
+          git config user.name "zapis-bot"; git config user.email "zapis-bot@users.noreply.github.com"
+          git add -A; git diff --cached --quiet || git commit -qm "Переадресации обновлены"
+          git pull --rebase -q origin main; git push
+      - name: Проверка адреса
+        run: |
+          sleep 60
+          for s in master-avto-kirov sensey-vmyatin-off-anapa; do curl -s -o /dev/null -w "$s %{http_code}\n" https://zapisavto.github.io/$s/; done
+          curl -s -o /dev/null -w "корень %{http_code}\n" https://zapisavto.github.io/
