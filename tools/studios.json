@@ -1,0 +1,1268 @@
+{
+ "absolyut-astrahan": {
+  "name": "Абсолют",
+  "city": "Астрахань",
+  "address": "ул. Пушкина, 10",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "agromashservis-selo-suponevo": {
+  "name": "Агромашсервис",
+  "city": "село Супонево",
+  "address": "Супоневское сельское поселение, село Супонево",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "albatros-kaluga": {
+  "name": "Альбатрос",
+  "city": "Калуга",
+  "address": "ул. Глаголева, 26",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "amuravto-blagoveschensk": {
+  "name": "АмурАвто",
+  "city": "Благовещенск",
+  "address": "ул. 50 лет Октября, 228А",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "antikor-kirov": {
+  "name": "Антикор",
+  "city": "Киров",
+  "address": "ул. Воровского, 111",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "antisvet-novokuzneck": {
+  "name": "Антисвет",
+  "city": "Новокузнецк",
+  "address": "ул. Орджоникидзе, 35",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "artavto-irkutsk": {
+  "name": "АртАвто",
+  "city": "Иркутск",
+  "address": "ул. Баррикад, 24А",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "artavto-petropavlovsk-kamchatskiy": {
+  "name": "АртАвто",
+  "city": "Петропавловск-Камчатский",
+  "address": "Тундровая ул., 1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "at-irk-irkutsk": {
+  "name": "АТ ирк",
+  "city": "Иркутск",
+  "address": "Чудотворская ул., 8В",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "auto-glass-ivanovo": {
+  "name": "Auto Glass",
+  "city": "Иваново",
+  "address": "ул. Смирнова, 96",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "autoacc-kondrovo": {
+  "name": "AutoAcc",
+  "city": "Кондрово",
+  "address": "ул. Лермонтова, 7",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "autostyle-blg-blagoveschensk": {
+  "name": "Autostyle_blg",
+  "city": "Благовещенск",
+  "address": "Амурская ул., 55/2",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avantsto-krasnodar": {
+  "name": "Авантсто",
+  "city": "Краснодар",
+  "address": "Прикубанский внутригородской округ, Западная промышленная зона",
+  "image": "https://images.pexels.com/photos/28984433/pexels-photo-28984433.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-big-kemerovo": {
+  "name": "Авто-Биг",
+  "city": "Кемерово",
+  "address": "ул. Ворошилова, 25, корп. 1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-yuvelir-petropavlovsk-kamchatskiy": {
+  "name": "Авто Ювелир",
+  "city": "Петропавловск-Камчатский",
+  "address": "ул. Чубарова, 9, стр. 2",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtocentr-tm-sochi": {
+  "name": "Автоцентр ТМ",
+  "city": "Сочи",
+  "address": "Пластунская ул., 200/2",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtocolor-bryansk": {
+  "name": "АвтоColor",
+  "city": "Брянск",
+  "address": "Советская ул., 82/84",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodiagnoz-astrahan": {
+  "name": "Автодиагноз",
+  "city": "Астрахань",
+  "address": "2-я Дербентская ул., 32А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodom-lyuks-krasnodar": {
+  "name": "Автодом-Люкс",
+  "city": "Краснодар",
+  "address": "Казачья ул., 22, микрорайон Центральный",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodrug37-ivanovo": {
+  "name": "Avtodrug37",
+  "city": "Иваново",
+  "address": "ул. Герасима Фейгина, 119",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoemali-v-cvet-gelendzhik": {
+  "name": "Автоэмали в цвет",
+  "city": "Геленджик",
+  "address": "Геленджик, территория Южная промышленная зона",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtogeometriya-irkutsk": {
+  "name": "Автогеометрия",
+  "city": "Иркутск",
+  "address": "Дорожная улица, 45",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoglass-vologda": {
+  "name": "Avtoglass",
+  "city": "Вологда",
+  "address": "ул. Саммера, 56, стр. 1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtogost-irkutsk": {
+  "name": "АвтоГОСТ",
+  "city": "Иркутск",
+  "address": "Старо-Кузьмихинская ул., 81",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoklassik-kemerovo": {
+  "name": "Автоклассик",
+  "city": "Кемерово",
+  "address": "Волгоградская ул., 9А, корп. 1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtokuzov35-vologda": {
+  "name": "Автокузов35",
+  "city": "Вологда",
+  "address": "ул. Можайского, 63",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtolyuks-kaluga": {
+  "name": "Автолюкс",
+  "city": "Калуга",
+  "address": "Газовая ул., 8, мкр. Железняки",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomasterskaya-kostroma": {
+  "name": "Автомастерская",
+  "city": "Кострома",
+  "address": "просп. Мира, 116/4",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-gorsovetskaya": {
+  "name": "Автомойка на Горсоветской",
+  "city": "Ростов-на-Дону",
+  "address": "Горсоветская ул., 21, мкр. Берберовка",
+  "image": "https://images.pexels.com/photos/20856507/pexels-photo-20856507.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtopromaks-cherepovec": {
+  "name": "АвтоПроМакс",
+  "city": "Череповец",
+  "address": "Северное ш., 4",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtorekonstrukciya-kemerovo": {
+  "name": "Автореконструкция",
+  "city": "Кемерово",
+  "address": "Шатурская ул., 1/3",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoremont-kotlas": {
+  "name": "Авторемонт",
+  "city": "Котлас",
+  "address": "ул. Новая Ветка, 3, корп. 12",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-35-vologda": {
+  "name": "Автосервис 35",
+  "city": "Вологда",
+  "address": "Говоровский пр., 10",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-anapa": {
+  "name": "Автосервис+",
+  "city": "Анапа",
+  "address": "Симферопольское ш., 7А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-astrahan": {
+  "name": "Автосервис",
+  "city": "Астрахань",
+  "address": "улица Трофимова, 116А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-kineshma": {
+  "name": "Автосервис",
+  "city": "Кинешма",
+  "address": "Наволокская ул., 6, стр. 2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-layk-avto32-bryansk": {
+  "name": "Автосервис Лайк-авто32",
+  "city": "Брянск",
+  "address": "ул. Менжинского, 121",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-suzdal": {
+  "name": "Автосервис",
+  "city": "Суздаль",
+  "address": "Промышленная ул., 2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosharm-kostroma": {
+  "name": "АвтоШарм",
+  "city": "Кострома",
+  "address": "Кострома, микрорайон Давыдовский-3, 28",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtositi-petropavlovsk-kamchatskiy": {
+  "name": "АвтоСити",
+  "city": "Петропавловск-Камчатский",
+  "address": "Владивостокская ул., 37/3",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtostekla-irkutsk": {
+  "name": "Автостекла",
+  "city": "Иркутск",
+  "address": "ул. Баррикад, 2/6",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtostekla-krasnodar": {
+  "name": "Автостекла",
+  "city": "Краснодар",
+  "address": "Симферопольская ул., 23",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-34-volgograd": {
+  "name": "Автостекло 34",
+  "city": "Волгоград",
+  "address": "ул. Рокоссовского, 54",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-d-afanasovo": {
+  "name": "Автостекло",
+  "city": "д. Афанасово",
+  "address": "Ильинская ул., 16",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-kirov": {
+  "name": "АвтоСтекло",
+  "city": "Киров",
+  "address": "Октябрьский просп., 18/1",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-kirovo-chepeck": {
+  "name": "Автостекло",
+  "city": "Кирово-Чепецк",
+  "address": "22-й микрорайон",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-kostroma": {
+  "name": "Автостекло",
+  "city": "Кострома",
+  "address": "Кинешемское ш., 74",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-servis-volzhskiy": {
+  "name": "Автостекло Сервис",
+  "city": "Волжский",
+  "address": "ул. Пушкина, 51Д/143",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtostudiya-arhangelsk": {
+  "name": "Автостудия Архангельск",
+  "city": "Архангельск",
+  "address": "Ленинградский просп., 2",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-arhangelsk": {
+  "name": "Автотехцентр",
+  "city": "Архангельск",
+  "address": "просп. Дзержинского, 18",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-avtodrom-novozybkov": {
+  "name": "АвтоТехЦентр Автодром",
+  "city": "Новозыбков",
+  "address": "ул. Бульварная, 147",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-politeh-sochi": {
+  "name": "АвтоТехЦентр Политех",
+  "city": "Сочи",
+  "address": "ул. Гастелло, 30, корп. 1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehnologii-polysaevo": {
+  "name": "АвтоТехнологии",
+  "city": "Полысаево",
+  "address": "Астраханская ул., 5А",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtovcvet-anapa": {
+  "name": "АвтоВцвет",
+  "city": "Анапа",
+  "address": "Супсехское ш., 1/4",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtozona-kaliningrad": {
+  "name": "Автозона",
+  "city": "Калининград",
+  "address": "Полтавская ул., 2",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bagira-arhangelsk": {
+  "name": "Багира",
+  "city": "Архангельск",
+  "address": "ул. Павла Усова, 10, корп. 2",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bamperok-ivanovo": {
+  "name": "Бамперок",
+  "city": "Иваново",
+  "address": "ул. Наговицыной-Икрянистовой, 6П",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bezvmyatin-vladimir": {
+  "name": "Беzвмятин",
+  "city": "Владимир",
+  "address": "ул. Луначарского, 3И",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bj-deteiling-eysk": {
+  "name": "Bj deteiling",
+  "city": "Ейск",
+  "address": "ул. Герцена, 3",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "black-tone-kaluga": {
+  "name": "Black tone",
+  "city": "Калуга",
+  "address": "Грабцевское ш., 47Б",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "blesk-avto-chigiri": {
+  "name": "Блеск-Авто",
+  "city": "Чигири",
+  "address": "ул. Воронкова, 9/8, село Чигири",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bumer-vologda": {
+  "name": "Бумер",
+  "city": "Вологда",
+  "address": "ул. Гагарина, 64",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bunker41-petropavlovsk-kamchatskiy": {
+  "name": "Bunker41",
+  "city": "Петропавловск-Камчатский",
+  "address": "микрорайон Дачный",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "carstyle-astrahan": {
+  "name": "CarStyle",
+  "city": "Астрахань",
+  "address": "Августовская ул., 9В/1",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ceh-40-kaluga": {
+  "name": "Цех 40",
+  "city": "Калуга",
+  "address": "Московская ул., 288А/2",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-kuzovnogo-i-malyarnogo-remonta": {
+  "name": "Центр кузовного и малярного ремонта",
+  "city": "Астрахань",
+  "address": "Ереванская улица, 1, корп. 21",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-kuzovnogo-remonta-eysk": {
+  "name": "Центр кузовного ремонта",
+  "city": "Ейск",
+  "address": "ул. Мичурина, 12В",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-kuzovnogo-remonta-gelendzhik": {
+  "name": "Центр кузовного ремонта",
+  "city": "Геленджик",
+  "address": "Геленджик, территория Южная промышленная зона, 3/1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-tonirovaniya-avtostekol-gelendzhik": {
+  "name": "Центр тонирования автостекол",
+  "city": "Геленджик",
+  "address": "Геленджикский просп., 6/1",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-tonirovaniya-stekol-ton-haus": {
+  "name": "Центр тонирования стёкол Тон Хаус",
+  "city": "Калининград",
+  "address": "ул. Юрия Гагарина, 98",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-udaleniya-vmyatin-dentsvd": {
+  "name": "Центр Удаления Вмятин DentSVD",
+  "city": "Северодвинск",
+  "address": "Железнодорожная ул., 31, стр. 7",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "crystal-car-gelendzhik": {
+  "name": "Crystal. Car",
+  "city": "Геленджик",
+  "address": "Геленджик, Геленджикский проспект",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dalnoboy-belorechensk": {
+  "name": "Дальнобой",
+  "city": "Белореченск",
+  "address": "Конармейская ул., 165",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "detail-k-c-kirovo-chepeck": {
+  "name": "Detail k/c",
+  "city": "Кирово-Чепецк",
+  "address": "8-й микрорайон",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "deteyling-1808-anapa": {
+  "name": "Детейлинг 1808",
+  "city": "Анапа",
+  "address": "Рождественский пр., 8, микрорайон Алексеевка",
+  "image": "https://images.pexels.com/photos/28984433/pexels-photo-28984433.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "deteyling-centr-avtoplastika-leninsk": {
+  "name": "Детейлинг центр Автопластика",
+  "city": "Ленинск-Кузнецкий",
+  "address": "Топкинская ул., 3Б",
+  "image": "https://images.pexels.com/photos/9028761/pexels-photo-9028761.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "deteylton-buy": {
+  "name": "Детейлтон",
+  "city": "Буй",
+  "address": "Производственный пр., 3",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dip-sound-blagoveschensk": {
+  "name": "Dip Sound",
+  "city": "Благовещенск",
+  "address": "ул. Островского, 177",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dolmaster-kostroma": {
+  "name": "DOLмастер",
+  "city": "Кострома",
+  "address": "ул. Экскаваторщиков, 8",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dtl-expert": {
+  "name": "ДТЛ Эксперт",
+  "city": "Москва",
+  "address": "7-я Кожуховская улица, вл. 5-Б (м. Автозаводская)",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "eurorepar-kaliningrad": {
+  "name": "Eurorepar",
+  "city": "Калининград",
+  "address": "Московский просп., 242",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "evakuator-24-kostroma": {
+  "name": "Эвакуатор 24",
+  "city": "Кострома",
+  "address": "ул. Петра Щербины, 8/5",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "fdi-style-161": {
+  "name": "Fdi Style 161",
+  "city": "Ростов-на-Дону",
+  "address": "Школьная ул., 5А, помещение 2",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "forsazh-kaliningrad": {
+  "name": "Форсаж",
+  "city": "Калининград",
+  "address": "Балтийский пер., 1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "forsazh-krymsk": {
+  "name": "Форсаж",
+  "city": "Крымск",
+  "address": "ул. Луначарского, 265",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garage-11-kam41-petropavlovsk-kamchatski": {
+  "name": "Garage 11 kam41",
+  "city": "Петропавловск-Камчатский",
+  "address": "Ленинский район",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gdi-detailing": {
+  "name": "Gdi Detailing",
+  "city": "Ростов-на-Дону",
+  "address": "ул. 30-я Линия, 58, Нахичевань",
+  "image": "https://images.pexels.com/photos/9028761/pexels-photo-9028761.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gekata-novokuzneck": {
+  "name": "Геката",
+  "city": "Новокузнецк",
+  "address": "Колхозный пр., 12/7",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "geometriya-goryachiy-klyuch": {
+  "name": "Геометрия",
+  "city": "Горячий Ключ",
+  "address": "ул. Пономаренко, 26",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ges-servis-irkutsk": {
+  "name": "ГЭС Сервис",
+  "city": "Иркутск",
+  "address": "Старо-Кузьмихинская ул., 100/1",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "glass-servis-kirov": {
+  "name": "Glass Сервис",
+  "city": "Киров",
+  "address": "Загородная ул., 9",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gs-servis-kuzovnoe-atele-severodvinsk": {
+  "name": "Gs-Servis Кузовное ателье",
+  "city": "Северодвинск",
+  "address": "Первомайская ул., 38, стр. 5А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gudvin-krasnodar": {
+  "name": "Гудвин",
+  "city": "Краснодар",
+  "address": "Колхозная ул., 53/2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "hameleon-krasnodar": {
+  "name": "Хамелеон",
+  "city": "Краснодар",
+  "address": "ул. Красных Партизан, 243",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "hramavto-poselok-pribrezhnoe": {
+  "name": "Храмавто",
+  "city": "посёлок Прибрежное",
+  "address": "Центральная ул., 23А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "hudozhestvennaya-masterskaya-po-stekol": {
+  "name": "Художественная мастерская по тонированию стекол",
+  "city": "Новороссийск",
+  "address": "Мысхакское ш., 71/1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "imperiya-avto-krasnodar": {
+  "name": "Империя Авто",
+  "city": "Краснодар",
+  "address": "ул. имени Калинина, 106/1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "inter-avto-kaliningrad": {
+  "name": "Интер-Авто",
+  "city": "Калининград",
+  "address": "Нарвская ул., 51А, корп. 1",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "isma-detailing-61": {
+  "name": "Исма Детейлинг 61",
+  "city": "Ростов-на-Дону",
+  "address": "Гранитная ул., 62/4, мкр. Берберовка",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "k4a-kostroma": {
+  "name": "К4а",
+  "city": "Кострома",
+  "address": "Кинешемское ш., 4А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kabriolet-vladimir": {
+  "name": "Кабриолет",
+  "city": "Владимир",
+  "address": "Мещёрская ул., 5",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kar-pacho-sochi": {
+  "name": "Кар Пачо",
+  "city": "Сочи",
+  "address": "ул. Ленина, 164",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "karachizh-bryansk": {
+  "name": "Карачиж",
+  "city": "Брянск",
+  "address": "Карачижская ул., 73",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "karetnyy-dvor-sochi": {
+  "name": "Каретный Двор",
+  "city": "Сочи",
+  "address": "Транспортная ул., 69",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kaspy-detailing-astrahan": {
+  "name": "Kaspy Detailing",
+  "city": "Астрахань",
+  "address": "Аэропортовское ш., 46Б/1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kia-rv-servis-krasnodar": {
+  "name": "Киа РВ Сервис",
+  "city": "Краснодар",
+  "address": "ул. Крупской, 180, жилой массив Пашковский",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "klinglossdeteyling-blagoveschensk": {
+  "name": "КлинГлоссДетейлинг",
+  "city": "Благовещенск",
+  "address": "ул. Чайковского, 209А/14",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kombi-d-buharovo": {
+  "name": "Комби",
+  "city": "д. Бухарово",
+  "address": "2А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kras-avto-abinsk": {
+  "name": "Крас Авто",
+  "city": "Абинск",
+  "address": "Краснодарская ул., 77",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzov-belogorsk": {
+  "name": "Кузов",
+  "city": "Белогорск",
+  "address": "ул. Победы, 26",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnaya-masterskaya-71-petropavlovsk": {
+  "name": "Кузовная мастерская '71",
+  "city": "Петропавловск-Камчатский",
+  "address": "Высотная ул., 26/1",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoe-atele-bryansk": {
+  "name": "Кузовное ателье",
+  "city": "Брянск",
+  "address": "Каштановая ул., 7",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoy-francuz-vladimir": {
+  "name": "Кузовной Француз",
+  "city": "Владимир",
+  "address": "посёлок РТС, 1, стр. 1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoy-remont-pokraska-avto": {
+  "name": "Кузовной ремонт, покраска авто",
+  "city": "Новороссийск",
+  "address": "Новороссийск, территория ГСК 37, с21",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoy-remont-sochi": {
+  "name": "Кузовной ремонт",
+  "city": "Сочи",
+  "address": "ул. Гагарина, 76/4",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoy-servis-na-pobedke-kaliningrad": {
+  "name": "Кузовной Сервис на Победке",
+  "city": "Калининград",
+  "address": "просп. Победы, 221",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovok-vologda": {
+  "name": "Кузовок",
+  "city": "Вологда",
+  "address": "Железнодорожная ул., 41А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovschik-kostroma": {
+  "name": "Кузовщик",
+  "city": "Кострома",
+  "address": "2-я Волжская ул., 7",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "l-o-b-novokuzneck": {
+  "name": "Л. О. Б.",
+  "city": "Новокузнецк",
+  "address": "Кольцевая ул., 15, корп. 7",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "lider-kaliningrad": {
+  "name": "Лидер",
+  "city": "Калининград",
+  "address": "ул. Менделеева, 61Б, корп. 2",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "lotos-kaliningrad": {
+  "name": "Лотос",
+  "city": "Калининград",
+  "address": "ул. Аллея Смелых, 61",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "lyumar-arhangelsk": {
+  "name": "Люмар",
+  "city": "Архангельск",
+  "address": "Московский просп., 25, стр. 1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "m-teh-severodvinsk": {
+  "name": "М Тех",
+  "city": "Северодвинск",
+  "address": "просп. Труда, 4Б",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "magistral-petropavlovsk-kamchatskiy": {
+  "name": "Магистраль",
+  "city": "Петропавловск-Камчатский",
+  "address": "Вулканная ул., 72, корп. 4",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "maksavto-kemerovo": {
+  "name": "МаксАвто",
+  "city": "Кемерово",
+  "address": "ул. Терешковой, 39Д",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "maksimkar-volgograd": {
+  "name": "МаксимКар",
+  "city": "Волгоград",
+  "address": "Волгоградская ул., 176Б, рабочий посёлок Горьковский",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "malleo-anapa": {
+  "name": "Маллео",
+  "city": "Анапа",
+  "address": "Супсехское ш., 1/3",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-avto-kirov": {
+  "name": "Мастер авто",
+  "city": "Киров",
+  "address": "Производственная ул., 24Ж",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "masterskaya-po-prodazhe-i-ustanovke": {
+  "name": "Мастерская по продаже и установке автостекол",
+  "city": "Волгоград",
+  "address": "ул. имени Хорошева, 123А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "masterskaya-yuga-novorossiysk": {
+  "name": "Мастерская Юга",
+  "city": "Новороссийск",
+  "address": "Шиллеровская ул., 1/2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mds-avto-irkutsk": {
+  "name": "Mds-avto",
+  "city": "Иркутск",
+  "address": "ул. Розы Люксембург, 156/1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "megaton-kirov": {
+  "name": "Megaton",
+  "city": "Киров",
+  "address": "Морозовская ул., 100Г/2, Первомайский район",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mir-avtostekla-krasnodar": {
+  "name": "Мир автостекла",
+  "city": "Краснодар",
+  "address": "Российская ул., 216",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "more-bamperov-sochi": {
+  "name": "Море бамперов",
+  "city": "Сочи",
+  "address": "Транспортная ул., 14",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ms-avtoprofi-volgograd": {
+  "name": "Мс-Автопрофи",
+  "city": "Волгоград",
+  "address": "ул. Немировича-Данченко, 15",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "old-master-severodvinsk": {
+  "name": "Old Master",
+  "city": "Северодвинск",
+  "address": "Первомайская ул., 38, стр. 5А",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "oniks-avto-gelendzhik": {
+  "name": "Оникс Авто",
+  "city": "Геленджик",
+  "address": "Геленджик, территория Южная промышленная зона, 32",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "optima-ivanovo": {
+  "name": "Оптима",
+  "city": "Иваново",
+  "address": "Продольная ул., 1, стр. 3",
+  "image": "https://images.pexels.com/photos/9028761/pexels-photo-9028761.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pdr-plus-kemerovo": {
+  "name": "Pdr Plus",
+  "city": "Кемерово",
+  "address": "ул. Терешковой, 41/3",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pdr-wizard-anapa": {
+  "name": "Pdr Wizard",
+  "city": "Анапа",
+  "address": "Супсехское ш., 1",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "poli-toner41-petropavlovsk-kamchatskiy": {
+  "name": "Poli_Toner41",
+  "city": "Петропавловск-Камчатский",
+  "address": "жилой район Северо-Восток",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "popelkov-kar-servis-belousovo": {
+  "name": "Попелков Кар Сервис",
+  "city": "Белоусово",
+  "address": "Московская ул., 70",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "praymavto-vologda": {
+  "name": "ПраймАвто",
+  "city": "Вологда",
+  "address": "Московское ш., 3",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "proffton40-kaluga": {
+  "name": "Проффтон40",
+  "city": "Калуга",
+  "address": "Путейская ул., 21",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "rav-krasnodar": {
+  "name": "Rav",
+  "city": "Краснодар",
+  "address": "ул. Автолюбителей, 9",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "reauto-anapa": {
+  "name": "ReAuto",
+  "city": "Анапа",
+  "address": "пр. Солдатских Матерей, 8",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remboks-blagoveschensk": {
+  "name": "Рембокс",
+  "city": "Благовещенск",
+  "address": "Красноармейская ул., 28/12",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remont-vmyatin-bez-pokraski-eysk": {
+  "name": "Ремонт вмятин без покраски",
+  "city": "Ейск",
+  "address": "Коммунистическая ул., 2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remont-vmyatin-bez-pokraski-novorossiysk": {
+  "name": "Ремонт вмятин без покраски",
+  "city": "Новороссийск",
+  "address": "ул. Планеристов, 20",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remont-vmyatin-gelendzhik": {
+  "name": "Ремонт вмятин",
+  "city": "Геленджик",
+  "address": "Геленджикский просп., 4/5",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "restorfx-novorossiysk": {
+  "name": "Restorfx",
+  "city": "Новороссийск",
+  "address": "ул. Луначарского, 1",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "schneider-service-sochi": {
+  "name": "Schneider Service",
+  "city": "Сочи",
+  "address": "ул. Белых Акаций, 34, жилой район Адлер",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sensey-vmyatin-off-anapa": {
+  "name": "Сенсей вмятин-off",
+  "city": "Анапа",
+  "address": "Зелёная ул., 2Б, микрорайон Алексеевка",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "service-car-kirov": {
+  "name": "Service Car",
+  "city": "Киров",
+  "address": "Весенняя ул., 54",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "servis-kvadra-kropotkin": {
+  "name": "Сервис-kvadra",
+  "city": "Кропоткин",
+  "address": "Линейная ул., 57/6",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "signal-avto-eysk": {
+  "name": "Сигнал-Авто",
+  "city": "Ейск",
+  "address": "Армавирская ул., 206/1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sis-irkutsk": {
+  "name": "Сис",
+  "city": "Иркутск",
+  "address": "ул. Генерала Доватора, 27/2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "siti-kar-novorossiysk": {
+  "name": "Сити Кар",
+  "city": "Новороссийск",
+  "address": "ул. Леселидзе, 1/4",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "solombala-avto-arhangelsk": {
+  "name": "Соломбала-Авто",
+  "city": "Архангельск",
+  "address": "ул. Валявкина, 38, корп. 1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "spektr-bryansk": {
+  "name": "Спектр",
+  "city": "Брянск",
+  "address": "Московский пр., 15А",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stanciya-kuzovnogo-remonta-m1-bryansk": {
+  "name": "Станция кузовного ремонта М1",
+  "city": "Брянск",
+  "address": "ул. Салтыкова-Щедрина, 18А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "status-avto-41-petropavlovsk-kamchatskiy": {
+  "name": "Status Avto 41",
+  "city": "Петропавловск-Камчатский",
+  "address": "Ленинский район",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stecloton-37-ivanovo": {
+  "name": "Stecloton 37",
+  "city": "Иваново",
+  "address": "6-я Ефремковская ул., 6",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stekloekspert-kostroma": {
+  "name": "Стеклоэксперт",
+  "city": "Кострома",
+  "address": "Кинешемское ш., 1",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stekloremont-vladimir": {
+  "name": "Стеклоремонт",
+  "city": "Владимир",
+  "address": "Ставровская ул., 17Е/31",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stekloservis-vologda": {
+  "name": "Стеклосервис",
+  "city": "Вологда",
+  "address": "Пошехонское ш., 50",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-kolor-avto-gelendzhik": {
+  "name": "СТО Колор-авто Геленджик",
+  "city": "Геленджик",
+  "address": "Геленджикский просп., 358",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-severnyy-gelendzhik": {
+  "name": "СТО Северный",
+  "city": "Геленджик",
+  "address": "Геленджик, микрорайон Северный, 50",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stolica-irkutsk": {
+  "name": "Столица",
+  "city": "Иркутск",
+  "address": "ул. Ширямова, 40",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stopboks34-volgograd": {
+  "name": "СтопБокс34",
+  "city": "Волгоград",
+  "address": "Ангарская ул., 32",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stservice-astrahan": {
+  "name": "STService",
+  "city": "Астрахань",
+  "address": "ул. Бехтерева, 14/1",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "studio-1-52": {
+  "name": "Studio1.52",
+  "city": "Ростов-на-Дону",
+  "address": "Горсоветская ул., 45А, мкр. Берберовка",
+  "image": "https://images.pexels.com/photos/28984433/pexels-photo-28984433.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sv-service-kirov": {
+  "name": "SV service",
+  "city": "Киров",
+  "address": "ул. Мира, 39Г",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehcentr-suzuki-kostroma": {
+  "name": "Техцентр Suzuki",
+  "city": "Кострома",
+  "address": "Галичская улица, 116",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehcentr-trans-kaluga": {
+  "name": "Техцентр Транс-Калуга",
+  "city": "Калуга",
+  "address": "Грабцевское ш., 81В",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehno-avto-irkutsk": {
+  "name": "Техно Авто",
+  "city": "Иркутск",
+  "address": "ул. Дыбовского, 17",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "terepec-kaluga": {
+  "name": "Терепец",
+  "city": "Калуга",
+  "address": "Азаровская ул., 26",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "territoriya-tyuninga-blagoveschensk": {
+  "name": "Территория тюнинга",
+  "city": "Благовещенск",
+  "address": "ул. Мухина, 80/2",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tolko-nikomu-d-svetlyy-luch": {
+  "name": "Только никому",
+  "city": "д. Светлый Луч",
+  "address": "35",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ton-avtoshik-vologda": {
+  "name": "Тон АвтоШиК",
+  "city": "Вологда",
+  "address": "ул. Можайского, 49В",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ton-lab": {
+  "name": "Ton Lab",
+  "city": "Ростов-на-Дону",
+  "address": "ул. Полторацкого, 19А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonerlab-petropavlovsk-kamchatskiy": {
+  "name": "ТонерЛаб",
+  "city": "Петропавловск-Камчатский",
+  "address": "Восточное ш., 2/6",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "toning-garage-vladimir": {
+  "name": "Toning Garage",
+  "city": "Владимир",
+  "address": "Быковский пр., 3",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovanie-stekol-sochi": {
+  "name": "Тонирование стёкол",
+  "city": "Сочи",
+  "address": "ул. Воровского, 6, микрорайон Центральный",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-1-anapa": {
+  "name": "Тонировка № 1",
+  "city": "Анапа",
+  "address": "ул. Ленина, 214/17",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-avto-goryachiy-klyuch": {
+  "name": "Тонировка Авто",
+  "city": "Горячий Ключ",
+  "address": "ул. Новое Заречье, 1",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-novokubansk": {
+  "name": "Тонировка Новокубанск",
+  "city": "Новокубанск",
+  "address": "Московская ул., 42Б",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-stekol-gelendzhik": {
+  "name": "Тонировка стёкол",
+  "city": "Геленджик",
+  "address": "ул. Кузина, 2",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-vladimir": {
+  "name": "Тонировка",
+  "city": "Владимир",
+  "address": "ул. Луначарского, 3",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka30-astrahan": {
+  "name": "Tonirovka30",
+  "city": "Астрахань",
+  "address": "ул. Набережная Казачьего Ерика, 2Б",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka40-kaluga": {
+  "name": "Tonirovka40",
+  "city": "Калуга",
+  "address": "ул. Баррикад, 175А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "toyota-agat-na-zagorodnoy-d-kolyanovo": {
+  "name": "Toyota Агат на Загородной",
+  "city": "д. Коляново",
+  "address": "Загородная ул., 8А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "toyota-centr-agat-na-aviatorov-volgograd": {
+  "name": "Тойота центр Агат на Авиаторов",
+  "city": "Волгоград",
+  "address": "ш. Авиаторов, 2Г",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "toyota-centr-vladimir-agat": {
+  "name": "Тойота центр Владимир, Агат",
+  "city": "Владимир",
+  "address": "Промышленный пр., 1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "trek-blagoveschensk": {
+  "name": "Трек",
+  "city": "Благовещенск",
+  "address": "Амурская ул., 5",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "triton-34-volgograd": {
+  "name": "Triton 34",
+  "city": "Волгоград",
+  "address": "Новороссийская ул., 33",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "triton34-volgograd": {
+  "name": "ТриТон34",
+  "city": "Волгоград",
+  "address": "ул. Дзержинского, 26Б",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tyuning-imperiya-blagoveschensk": {
+  "name": "Тюнинг Империя",
+  "city": "Благовещенск",
+  "address": "Промышленная ул., 6/2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "u-petrovicha-vladimir": {
+  "name": "У Петровича",
+  "city": "Владимир",
+  "address": "Промышленный пр., 5Ж",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "u-yakorya-astrahan": {
+  "name": "У якоря",
+  "city": "Астрахань",
+  "address": "ул. Безжонова, 159",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "udalenie-vmyatin-anapa": {
+  "name": "Удаление вмятин",
+  "city": "Анапа",
+  "address": "Симферопольское ш., 7А",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ugol-parka-volgograd": {
+  "name": "Угол парка",
+  "city": "Волгоград",
+  "address": "Тополёвая ул., 15А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "uyut-v-avto-astrahan": {
+  "name": "Уют в Авто",
+  "city": "Астрахань",
+  "address": "6-я Литейная ул., 96Г",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "v-dos-novorossiysk": {
+  "name": "V@dos",
+  "city": "Новороссийск",
+  "address": "ул. Кирова, 106",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "viar-sochi": {
+  "name": "ВиаР",
+  "city": "Сочи",
+  "address": "Транспортная ул., 14/4",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "viktoriya-avto-kovrov": {
+  "name": "Виктория Авто",
+  "city": "Ковров",
+  "address": "ул. Свердлова, 105",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vinil-sochi": {
+  "name": "Винил Сочи",
+  "city": "Сочи",
+  "address": "ул. Ромашек, 1, жилой район Адлер",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vorkshop39-kaliningrad": {
+  "name": "Воркшоп39",
+  "city": "Калининград",
+  "address": "Московский просп., 184, корп. 1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "wrap-auto-cherepovec": {
+  "name": "Wrap Auto",
+  "city": "Череповец",
+  "address": "Любецкая ул., 26",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "za-rulem-bryansk": {
+  "name": "За Рулём",
+  "city": "Брянск",
+  "address": "Московский пр., 83",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zebra-selo-suponevo": {
+  "name": "Зебра",
+  "city": "село Супонево",
+  "address": "Шоссейная ул., 1Б",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ }
+}
