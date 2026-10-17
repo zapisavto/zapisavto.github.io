@@ -41,6 +41,7 @@ avtomarketsto-temryuk
 avtomasterskaya-kostroma
 avtomoyka-gorsovetskaya
 avtopromaks-cherepovec
+avtorazbor-438-achinsk
 avtorekonstrukciya-kemerovo
 avtoremont-kotlas
 avtoresurs24-krasnoyarsk
@@ -106,8 +107,11 @@ diler-temryuk
 dip-sound-blagoveschensk
 dolmaster-kostroma
 dtl-expert
+emex-tuapse
 eurorepar-kaliningrad
 evakuator-24-kostroma
+evakuator-timashevsk
+evakuator-ust-labinsk
 fdi-style-161
 forsazh-kaliningrad
 forsazh-krymsk
@@ -191,6 +195,7 @@ remont-vmyatin-bez-pokraski-eysk
 remont-vmyatin-bez-pokraski-novorossiysk
 remont-vmyatin-gelendzhik
 restorfx-novorossiysk
+rotor-avtokompleks-kansk
 safari-temryuk
 schneider-service-sochi
 sensey-vmyatin-off-anapa
@@ -202,6 +207,7 @@ signal-avto-eysk
 sis-irkutsk
 siti-kar-novorossiysk
 solombala-avto-arhangelsk
+soyuz-komplekt-servis-achinsk
 spektr-bryansk
 stanciya-kuzovnogo-remonta-m1-bryansk
 status-avto-41-petropavlovsk-kamchatskiy
@@ -209,6 +215,7 @@ stecloton-37-ivanovo
 stekloekspert-kostroma
 stekloremont-vladimir
 stekloservis-vologda
+sto-avto-modul-tihoreck
 sto-kolor-avto-gelendzhik
 sto-profi-timashevsk
 sto-remont-vmyatin-temryuk
@@ -247,6 +254,7 @@ toyota-centr-agat-na-aviatorov-volgograd
 toyota-centr-vladimir-agat
 trak-servis-vlas-achinsk
 trek-blagoveschensk
+trikolor-tihoreck
 triton-34-volgograd
 triton34-volgograd
 tyuning-imperiya-blagoveschensk
@@ -265,5 +273,6 @@ vorkshop39-kaliningrad
 wrap-auto-cherepovec
 z-tuning-timashevsk
 za-rulem-bryansk
+zapchasti-ru-tihoreck
 zebra-selo-suponevo
 zigulya-krasnoyarsk
