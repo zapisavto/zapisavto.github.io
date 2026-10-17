@@ -1612,5 +1612,59 @@
   "city": "Красноярск",
   "address": "ул. Академика Вавилова, 46",
   "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtorazbor-438-achinsk": {
+  "name": "Авторазбор 438",
+  "city": "Ачинск",
+  "address": "Ачинск, гаражно-строительный кооператив № 10, с438",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "emex-tuapse": {
+  "name": "Emex",
+  "city": "Туапсе",
+  "address": "ул. Богдана Хмельницкого, 92",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "evakuator-timashevsk": {
+  "name": "Эвакуатор",
+  "city": "Тимашевск",
+  "address": "ул. Шияна, 34",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "evakuator-ust-labinsk": {
+  "name": "Эвакуатор",
+  "city": "Усть-Лабинск",
+  "address": "ул. Шаумяна, 1",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "rotor-avtokompleks-kansk": {
+  "name": "Ротор, Автокомплекс",
+  "city": "Канск",
+  "address": "Канск",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "soyuz-komplekt-servis-achinsk": {
+  "name": "Союз-Комплект-Сервис",
+  "city": "Ачинск",
+  "address": "Ачинск",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-avto-modul-tihoreck": {
+  "name": "СТО Авто-модуль",
+  "city": "Тихорецк",
+  "address": "Тихорецк",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "trikolor-tihoreck": {
+  "name": "Триколор",
+  "city": "Тихорецк",
+  "address": "Ленинградская ул., 236Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zapchasti-ru-tihoreck": {
+  "name": "Запчасти.ru",
+  "city": "Тихорецк",
+  "address": "Парковая ул., 2Г",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
