@@ -1264,5 +1264,353 @@
   "city": "село Супонево",
   "address": "Шоссейная ул., 1Б",
   "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "agent-deteyling-tuapse": {
+  "name": "Агент Детейлинг",
+  "city": "Туапсе",
+  "address": "ул. Чапаева, 13",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ampirus-mobile-krasnoyarsk": {
+  "name": "Ампирус mobile",
+  "city": "Красноярск",
+  "address": "Брянская ул., 132А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "aura-pro-krasnoyarsk": {
+  "name": "Аура Про",
+  "city": "Красноярск",
+  "address": "ул. Копылова, 36",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "autopainting-zheleznogorsk": {
+  "name": "Autopainting",
+  "city": "Железногорск",
+  "address": "Южная ул., 57А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "autostekla-ust-labinsk": {
+  "name": "AutoStekla",
+  "city": "Усть-Лабинск",
+  "address": "ул. Калинина, 18",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-franc-krasnoyarsk": {
+  "name": "Авто Франц",
+  "city": "Красноярск",
+  "address": "ул. Диксона, 1",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoatele-timashevsk": {
+  "name": "Автоателье",
+  "city": "Тимашевск",
+  "address": "ул. Дзержинского, 17",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodoktor-temryuk": {
+  "name": "Автодоктор",
+  "city": "Темрюк",
+  "address": "ул. Калинина, 26А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodom-ust-labinsk": {
+  "name": "Автодом",
+  "city": "Усть-Лабинск",
+  "address": "ул. Пушкина, 85",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodrayv-timashevsk": {
+  "name": "Автодрайв",
+  "city": "Тимашевск",
+  "address": "ул. Шевченко, 5",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoelektrik-temryuk": {
+  "name": "Автоэлектрик",
+  "city": "Темрюк",
+  "address": "ул. Калинина, 26А",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomarket-lada-detal-kansk": {
+  "name": "АвтоМаркет, Лада деталь",
+  "city": "Канск",
+  "address": "ул. Эйдемана, 11А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomarketsto-temryuk": {
+  "name": "АвтоМаркетСТО",
+  "city": "Темрюк",
+  "address": "ул. Обороны, 4",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoresurs24-krasnoyarsk": {
+  "name": "Авторесурс24",
+  "city": "Красноярск",
+  "address": "ул. Академика Вавилова, 2Б",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-avtotehcentr-temryuk": {
+  "name": "Автосервис, автотехцентр",
+  "city": "Темрюк",
+  "address": "ул. Карла Маркса, 118",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-bars-temryuk": {
+  "name": "Автосервис Барс",
+  "city": "Темрюк",
+  "address": "Промышленная ул., 3А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-kansk": {
+  "name": "Автосервис",
+  "city": "Канск",
+  "address": "ул. Коростелева, 19А",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-ozon-zheleznogorsk": {
+  "name": "Автосервис Озон",
+  "city": "Железногорск",
+  "address": "Загородная ул., 4А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-ust-labinsk": {
+  "name": "Автосервис",
+  "city": "Усть-Лабинск",
+  "address": "Воронежская ул., 1Б",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-terminal-achinsk": {
+  "name": "Автотехцентр Терминал",
+  "city": "Ачинск",
+  "address": "пр. Авиаторов, 6Д",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-timashevsk": {
+  "name": "Автотехцентр",
+  "city": "Тимашевск",
+  "address": "Выборная ул., 68Н",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehnik-krasnoyarsk": {
+  "name": "Автотехник",
+  "city": "Красноярск",
+  "address": "Телевизорная ул., 1, стр. 31",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtozvuk-24-ru-achinsk": {
+  "name": "АвтоЗвук 24.ru",
+  "city": "Ачинск",
+  "address": "ул. Щетинкина, 7Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bronirovanie-avto-tihoreck": {
+  "name": "Бронирование авто",
+  "city": "Тихорецк",
+  "address": "Московская ул., 29",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-13-31-temryuk": {
+  "name": "Центр 13/31",
+  "city": "Темрюк",
+  "address": "ул. Обороны, 1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-avtostekol-stekloff-achinsk": {
+  "name": "Центр автостекол Стеклофф",
+  "city": "Ачинск",
+  "address": "ул. Маяковского, 2Б",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "detali-mashin-gaz-tihoreck": {
+  "name": "Детали машин ГАЗ",
+  "city": "Тихорецк",
+  "address": "Пролетарская ул., 268",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "diler-temryuk": {
+  "name": "Дилер",
+  "city": "Темрюк",
+  "address": "Октябрьская ул., 161",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "fortuna-servis-krasnoyarsk": {
+  "name": "Фортуна-Сервис",
+  "city": "Красноярск",
+  "address": "Свердловская ул., 65",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gabarit-krasnoyarsk": {
+  "name": "Габарит",
+  "city": "Красноярск",
+  "address": "Волжская ул., 51А/4",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garant-timashevsk": {
+  "name": "Гарант",
+  "city": "Тимашевск",
+  "address": "Гибридная ул., 43",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garazh15-timashevsk": {
+  "name": "Гараж15",
+  "city": "Тимашевск",
+  "address": "ул. Ковалёва, 99",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "idm-servis-zelenogorsk": {
+  "name": "Идм Сервис",
+  "city": "Зеленогорск",
+  "address": "ул. Гагарина, 42",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ivanor-achinsk": {
+  "name": "Ivanor",
+  "city": "Ачинск",
+  "address": "Профсоюзная ул., 3А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kontinent-tuapse": {
+  "name": "Континент",
+  "city": "Туапсе",
+  "address": "ул. Богдана Хмельницкого, 175",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "magazin-studiya-avtozvuk-achinsk": {
+  "name": "Магазин-студия АвтоЗвук",
+  "city": "Ачинск",
+  "address": "ул. Маяковского, 2Б",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "maks-servis-hadyzhensk": {
+  "name": "Макс_Сервис",
+  "city": "Хадыженск",
+  "address": "ул. Кошевого, 34",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mir-shin-timashevsk": {
+  "name": "Мир Шин",
+  "city": "Тимашевск",
+  "address": "Казачья ул., 142",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "motor-krasnoyarsk": {
+  "name": "Мотор+",
+  "city": "Красноярск",
+  "address": "ул. 60 лет Октября, 111А/4",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ms-avto-krasnoyarsk": {
+  "name": "МС-авто",
+  "city": "Красноярск",
+  "address": "ул. Лесопильщиков, 145Г",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ochistka-dvigatelya-vodorodom": {
+  "name": "Очистка двигателя водородом",
+  "city": "Железногорск",
+  "address": "Южная ул., 38",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pro-avto-kansk": {
+  "name": "Про авто",
+  "city": "Канск",
+  "address": "ул. 30 лет ВЛКСМ, 7",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "safari-temryuk": {
+  "name": "Сафари",
+  "city": "Темрюк",
+  "address": "ул. 27 Сентября, 76/1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "servis-kansk": {
+  "name": "Сервис",
+  "city": "Канск",
+  "address": "Гаражная ул., 1Б",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-garazh-ust-labinsk": {
+  "name": "Шиномонтаж-Гараж",
+  "city": "Усть-Лабинск",
+  "address": "ул. Тургенева, 1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-profi-timashevsk": {
+  "name": "СТО Profi",
+  "city": "Тимашевск",
+  "address": "Вокзальная ул., 179",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-remont-vmyatin-temryuk": {
+  "name": "СТО Ремонт вмятин",
+  "city": "Темрюк",
+  "address": "ул. Декабристов, 21",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-tuapse": {
+  "name": "СТО Туапсе",
+  "city": "Туапсе",
+  "address": "Эстакадный тупик, 5",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-u-seregi-temryuk": {
+  "name": "СТО у Серёги",
+  "city": "Темрюк",
+  "address": "ул. Труда, 24",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-ust-labinsk": {
+  "name": "СТО",
+  "city": "Усть-Лабинск",
+  "address": "Краснодарский край, Усть-Лабинск, Заполотняная улица",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "svoy-garazh-kansk": {
+  "name": "Свой гараж",
+  "city": "Канск",
+  "address": "Канск, микрорайон Стрижевой, квартал № 3, 33",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehcentr-achinsk": {
+  "name": "Техцентр",
+  "city": "Ачинск",
+  "address": "ул. Крупской, 28",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tim-timashevsk": {
+  "name": "Tim",
+  "city": "Тимашевск",
+  "address": "Краснодарский край, Тимашевск, Баварская улица",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "trak-servis-vlas-achinsk": {
+  "name": "Трак Сервис Влас",
+  "city": "Ачинск",
+  "address": "ул. Льва Толстого, 49",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "u-vladimirovicha-achinsk": {
+  "name": "У Владимировича",
+  "city": "Ачинск",
+  "address": "ул. Дзержинского, 63",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "uazgazservis-tuapse": {
+  "name": "УазГазСервис",
+  "city": "Туапсе",
+  "address": "тупик Говорова, 17",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "z-tuning-timashevsk": {
+  "name": "Z tuning",
+  "city": "Тимашевск",
+  "address": "ул. Науменко, 34",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zigulya-krasnoyarsk": {
+  "name": "Зигуля",
+  "city": "Красноярск",
+  "address": "ул. Академика Вавилова, 46",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
