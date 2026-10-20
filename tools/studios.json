@@ -1666,5 +1666,407 @@
   "city": "Тихорецк",
   "address": "Парковая ул., 2Г",
   "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "5-koleso-elec": {
+  "name": "5 Колесо",
+  "city": "Елец",
+  "address": "Красноармейская ул., 61",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "a2-kursk": {
+  "name": "А2",
+  "city": "Курск",
+  "address": "Гремяченская ул., 17",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "alfa-servis-balashiha": {
+  "name": "Альфа Сервис",
+  "city": "Балашиха",
+  "address": "Московская область, городской округ Балашиха, квартал Черновская промзона, Восточное шоссе, 18",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "amg-aprelevka": {
+  "name": "Амг",
+  "city": "Апрелевка",
+  "address": "Апрелевская ул., 63",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "atdservice-balashiha": {
+  "name": "ATDService",
+  "city": "Балашиха",
+  "address": "Балашиха, квартал Щитниково, 79",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-boom-kursk": {
+  "name": "Авто Boom",
+  "city": "Курск",
+  "address": "ул. 50 лет Октября, 126",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-loker-balashiha": {
+  "name": "Авто-Локер",
+  "city": "Балашиха",
+  "address": "Балашиха, микрорайон Гагарина, 10, стр. 1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtobystro-aprelevka": {
+  "name": "АвтоБыстро",
+  "city": "Апрелевка",
+  "address": "Московская область, Наро-Фоминский городской округ, Апрелевка, Апрелевская улица",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtochip-lipeck": {
+  "name": "Авточип",
+  "city": "Липецк",
+  "address": "ул. Валентина Скороходова, 17, корп. 2",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodvorik-lipeck": {
+  "name": "Автодворик",
+  "city": "Липецк",
+  "address": "ул. Валентина Скороходова, 21, корп. 3",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoelektrik-balashiha": {
+  "name": "Автоэлектрик",
+  "city": "Балашиха",
+  "address": "Балашиха",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomaster-balashiha": {
+  "name": "Автомастер",
+  "city": "Балашиха",
+  "address": "Советская ул., 83В, микрорайон Железнодорожный",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoreal-kurgan": {
+  "name": "Автореал",
+  "city": "Курган",
+  "address": "ул. Салавата Юлаева, 89/36, район Рябково",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-aprelevka": {
+  "name": "Автосервис Апрелевка",
+  "city": "Апрелевка",
+  "address": "Московская область, Наро-Фоминский городской округ",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-kuzov-nazarovo": {
+  "name": "Автосервис Кузов",
+  "city": "Назарово",
+  "address": "ул. Суворова, 7",
+  "image": "https://images.pexels.com/photos/28984433/pexels-photo-28984433.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-svetofor-elec": {
+  "name": "Автосервис Светофор",
+  "city": "Елец",
+  "address": "Липецкая область, Елец, М-4 Дон, 379-й километр",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtostekla48-lipeck": {
+  "name": "Автостекла48",
+  "city": "Липецк",
+  "address": "Универсальный пр., 14вл16",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-46-kursk": {
+  "name": "Автостекло 46",
+  "city": "Курск",
+  "address": "ул. 50 лет Октября, 126",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bumerang-lipeck": {
+  "name": "Бумеранг",
+  "city": "Липецк",
+  "address": "Ферросплавная ул., 1, корп. 1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "cao-kurgan": {
+  "name": "ЦАО",
+  "city": "Курган",
+  "address": "Омский пер., 9/4",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "carpeppers-lipeck": {
+  "name": "CarPeppers",
+  "city": "Липецк",
+  "address": "ул. Механизаторов, 15В",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "chip-tyuning-kurskaya-oblast": {
+  "name": "Чип-тюнинг",
+  "city": "Курская область",
+  "address": "ул. Пушкарка, 76, село Черницыно",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "egorka-auto-balashiha": {
+  "name": "Egorka-auto",
+  "city": "Балашиха",
+  "address": "Автозаводская ул., 48, микрорайон Железнодорожный",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "f-shinka-balashiha": {
+  "name": "Ф_Шинка",
+  "city": "Балашиха",
+  "address": "ул. Островского, 50, микрорайон Саввино",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "formula-magadan": {
+  "name": "Формула",
+  "city": "Магадан",
+  "address": "Продольная ул., 30",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gold-auto-lipeck": {
+  "name": "Gold Auto",
+  "city": "Липецк",
+  "address": "ул. С.Ф. Балмочных, 17, стр. 1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "grafit-aprelevka": {
+  "name": "Графит",
+  "city": "Апрелевка",
+  "address": "Новая ул., 1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "inzhektor-servis-kurgan": {
+  "name": "Инжектор-сервис",
+  "city": "Курган",
+  "address": "просп. Маршала Голикова, 14А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ivanor-lesosibirsk": {
+  "name": "Ivanor",
+  "city": "Лесосибирск",
+  "address": "Магистральная ул., 42",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "koleso-ru-balashiha": {
+  "name": "Колесо. ру",
+  "city": "Балашиха",
+  "address": "ш. Энтузиастов, 1/2, территория Западная Промзона",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kurskaya-shinnaya-kompaniya": {
+  "name": "Курская Шинная Компания",
+  "city": "Курск",
+  "address": "М-2 Крым, 7",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "lider-elec": {
+  "name": "Лидер",
+  "city": "Елец",
+  "address": "ул. Яна Фабрициуса, 22",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "malyarnyy-ceh-kurchatov": {
+  "name": "Малярный цех",
+  "city": "Курчатов",
+  "address": "Молодёжная ул., 15",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "matrica-minusinsk": {
+  "name": "Матрица",
+  "city": "Минусинск",
+  "address": "Минусинск, гаражный массив Район горы Лысуха, с138А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "meridian-lipeck": {
+  "name": "Меридиан",
+  "city": "Липецк",
+  "address": "ул. Леонтия Кривенкова, 4",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mir-avtostekla-elec": {
+  "name": "Мир Автостекла",
+  "city": "Елец",
+  "address": "ул. Костенко, 16/1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "molotok-chaplygin": {
+  "name": "МолотОК",
+  "city": "Чаплыгин",
+  "address": "ул. М.Горького, 94",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "motor-gryazi": {
+  "name": "Мотор",
+  "city": "Грязи",
+  "address": "ул. Гагарина, с1Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "nester-car-magadan": {
+  "name": "Nester Car",
+  "city": "Магадан",
+  "address": "Марчеканский пер., 2",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pilot-kursk": {
+  "name": "Пилот",
+  "city": "Курск",
+  "address": "просп. Хрущёва, 27, микрорайон Северо-Западный",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pit-stop-elec": {
+  "name": "Пит-Стоп",
+  "city": "Елец",
+  "address": "Орловское ш., 3",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "planeta-lipeck": {
+  "name": "Планета",
+  "city": "Липецк",
+  "address": "ул. Пугачёва, 1Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "red-ayz-magadan": {
+  "name": "Ред Айз",
+  "city": "Магадан",
+  "address": "Речная ул., 8А/1",
+  "image": "https://images.pexels.com/photos/9028761/pexels-photo-9028761.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remdiskservis45-kurgan": {
+  "name": "РемДискСервис45",
+  "city": "Курган",
+  "address": "ул. Некрасова, 16, корп. 5",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "reno-lider-kurgan": {
+  "name": "Рено-лидер",
+  "city": "Курган",
+  "address": "Курган, жилой район Заозёрный, 3-й микрорайон, 37",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "servis-i-shinomontazh-aprelevka": {
+  "name": "Сервис и Шиномонтаж",
+  "city": "Апрелевка",
+  "address": "4-я Боровская ул., 4",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinka-elec": {
+  "name": "Шинка",
+  "city": "Елец",
+  "address": "ул. Фрунзе, 61",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinodel-kurgan": {
+  "name": "Шинодел",
+  "city": "Курган",
+  "address": "Омская ул., 163",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-aprelevka": {
+  "name": "Шиномонтаж",
+  "city": "Апрелевка",
+  "address": "Апрелевская ул., 87",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-elec": {
+  "name": "Шиномонтаж",
+  "city": "Елец",
+  "address": "ул. Дякина, 60",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-gryazi": {
+  "name": "Шиномонтаж",
+  "city": "Грязи",
+  "address": "Индустриальная ул., 1Б",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh24-elec": {
+  "name": "Шиномонтаж24",
+  "city": "Елец",
+  "address": "Школьная ул., 12",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shintorg-kurgan": {
+  "name": "Шинторг",
+  "city": "Курган",
+  "address": "Омская ул., 181, стр. 1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shtormavto-magadan": {
+  "name": "Штормавто",
+  "city": "Магадан",
+  "address": "Транзитная ул., 20А, стр. 2",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "spl46-kursk": {
+  "name": "Spl46",
+  "city": "Курск",
+  "address": "просп. Хрущёва, 30А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "steklim-avto-kursk": {
+  "name": "Стеклим авто",
+  "city": "Курск",
+  "address": "ул. Новосёловка, 62А",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stekloservis-kurgan": {
+  "name": "Стеклосервис",
+  "city": "Курган",
+  "address": "ул. Бурова-Петрова, 100, корп. 1",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tms-balashiha": {
+  "name": "ТМС",
+  "city": "Балашиха",
+  "address": "Автозаводская ул., с8, микрорайон Железнодорожный",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "treydshinservis-kurgan": {
+  "name": "ТрейдШинСервис",
+  "city": "Курган",
+  "address": "ул. Некрасова, 22, корп. 3",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tripleks-magadan": {
+  "name": "Триплекс",
+  "city": "Магадан",
+  "address": "Основная трасса, 6-й километр, левая сторона, 27А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "trokot-magadan": {
+  "name": "Трокот-магадан",
+  "city": "Магадан",
+  "address": "пер. Солдатенко, 8Б",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "udalenie-vmyatin-bez-pokraski-balashiha": {
+  "name": "Удаление Вмятин Без Покраски",
+  "city": "Балашиха",
+  "address": "ш. Энтузиастов, 38А",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "udalenie-vmyatin-bez-pokraski-lipeck": {
+  "name": "Удаление вмятин без покраски",
+  "city": "Липецк",
+  "address": "Коммунистическая ул., 4",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vmyatin-net-lipeck": {
+  "name": "Вмятин нет",
+  "city": "Липецк",
+  "address": "Липецк, гаражный потребительский кооператив Радар, 344",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "yaponskaya-melodiya-deteylinga-aprelevka": {
+  "name": "Японская Мелодия Детейлинга",
+  "city": "Апрелевка",
+  "address": "Московская область, Наро-Фоминский городской округ",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zarya-kursk": {
+  "name": "Заря",
+  "city": "Курск",
+  "address": "Курск, Светлый проезд",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zipshina-kurgan": {
+  "name": "Зипшина",
+  "city": "Курган",
+  "address": "Р-254 Иртыш, 258-й километр, 1Б/2",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
