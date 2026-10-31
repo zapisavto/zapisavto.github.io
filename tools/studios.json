@@ -2584,5 +2584,539 @@
   "city": "Чехов",
   "address": "Советская ул., 72/2",
   "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kr-parts-voskresensk": {
+  "name": "KR-Parts",
+  "city": "Воскресенск",
+  "address": "ул. Цесиса, 11, стр. 1, микрорайон Новлянский",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-okleyki-i-udaleniya-vmyatin": {
+  "name": "Центр оклейки и удаления вмятин",
+  "city": "Воскресенск",
+  "address": "Московская область, городской округ Воскресенск, территория Промплощадка, 1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodoktor-egorevsk": {
+  "name": "АвтоДоктор",
+  "city": "Егорьевск",
+  "address": "Московская область",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vechnyy-antikor-voskresensk": {
+  "name": "Вечный Антикор",
+  "city": "Воскресенск",
+  "address": "Московская область, Воскресенск, микрорайон Центральный",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodoka-kashira": {
+  "name": "Автодока",
+  "city": "Кашира",
+  "address": "Московская область",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-kashira": {
+  "name": "Автомойка",
+  "city": "Кашира",
+  "address": "1-я Дзержинская ул., 97, стр. 1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinprofavto-kashira": {
+  "name": "ШинПрофАвто",
+  "city": "Кашира",
+  "address": "ул. Меженинова, 1, стр. 1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-ozery": {
+  "name": "Шиномонтаж",
+  "city": "Озёры",
+  "address": "Октябрьская ул., 12",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "prestizh-kashira": {
+  "name": "Престиж",
+  "city": "Кашира",
+  "address": "Стрелецкая ул., 70/1",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-r8-kashira": {
+  "name": "Шиномонтаж R8",
+  "city": "Кашира",
+  "address": "Московская область, Кашира, 3-й микрорайон",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "filcar-kashira": {
+  "name": "Filcar",
+  "city": "Кашира",
+  "address": "площадь Облог, 4",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonservis-ozery": {
+  "name": "ТонСервис",
+  "city": "Озёры",
+  "address": "ул. Юрия Сергеева, 65",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pitstop1-kashira": {
+  "name": "Питстоп1",
+  "city": "Кашира",
+  "address": "Пушкарская ул., 88",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "masterskaya-911-kashira": {
+  "name": "Мастерская 911",
+  "city": "Кашира",
+  "address": "Московская область, Кашира, микрорайон Ожерелье",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vremya-shin-ramenskoe": {
+  "name": "Время Шин",
+  "city": "Раменское",
+  "address": "Северное ш., 1, стр. 3",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kupi-4-kolesa-ramenskoe": {
+  "name": "Купи 4 колеса",
+  "city": "Раменское",
+  "address": "ул. Коминтерна, 25/2",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "myatyy-element-ramenskoe": {
+  "name": "Мятый Элемент",
+  "city": "Раменское",
+  "address": "ул. Народное Имение, 13А",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "brano-ramenskoe": {
+  "name": "Brano",
+  "city": "Раменское",
+  "address": "Красноармейская ул., 99",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-4-sezona-ramenskoe": {
+  "name": "Шиномонтаж 4 Сезона",
+  "city": "Раменское",
+  "address": "Десантная ул., 1",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "l-s-v-ramenskoe": {
+  "name": "Л. С. В",
+  "city": "Раменское",
+  "address": "ул. Коминтерна, 25/2",
+  "image": "https://images.pexels.com/photos/9028761/pexels-photo-9028761.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vayld-pro-ramenskoe": {
+  "name": "Вайлд Про",
+  "city": "Раменское",
+  "address": "ул. Михалевича, 49",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "proezd7-ramenskoe": {
+  "name": "Proezd7",
+  "city": "Раменское",
+  "address": "Деревообделочный пр., 7",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "lvtrevork-ramenskoe": {
+  "name": "ЛВТреворк",
+  "city": "Раменское",
+  "address": "Транспортный пр., 8",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "udalenie-vmyatin-zhukovskiy": {
+  "name": "Удаление вмятин",
+  "city": "Жуковский",
+  "address": "ул. Мясищева, с17",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-zhukovskiy": {
+  "name": "Мастер",
+  "city": "Жуковский",
+  "address": "Молодёжная ул., 29, стр. 15",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "wrapping-lab-zhukovskiy": {
+  "name": "Wrapping-Lab",
+  "city": "Жуковский",
+  "address": "Кооперативная ул., 18",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "rgs-servis-zhukovskiy": {
+  "name": "РГС Сервис",
+  "city": "Жуковский",
+  "address": "ул. Гагарина, 5А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zuk-toner-zhukovskiy": {
+  "name": "Zuk_toner",
+  "city": "Жуковский",
+  "address": "Речной пр., 11Б",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "re-polimer-zhukovskiy": {
+  "name": "Re-Polimer",
+  "city": "Жуковский",
+  "address": "Кооперативная ул., 3",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ringstop-zhukovskiy": {
+  "name": "RingStop",
+  "city": "Жуковский",
+  "address": "ул. Анохина, 9",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "expert-zhukovskiy": {
+  "name": "Expert",
+  "city": "Жуковский",
+  "address": "Молодёжная ул., 31",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtokompleks-rvs-zhukovskiy": {
+  "name": "Автокомплекс Rvs",
+  "city": "Жуковский",
+  "address": "ул. Чкалова, 38А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dom-dlya-avto-vidnoe": {
+  "name": "Дом для авто",
+  "city": "Видное",
+  "address": "Донбасская ул., 75",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-vidnoe": {
+  "name": "Шиномонтаж",
+  "city": "Видное",
+  "address": "Вокзальная ул., 2, район Расторгуево",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "frolov-servis-vidnoe": {
+  "name": "Фролов сервис",
+  "city": "Видное",
+  "address": "Центральная ул., 30",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "motorfix-vidnoe": {
+  "name": "Motorfix",
+  "city": "Видное",
+  "address": "Ольгинская ул., 45, район Расторгуево",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-vidnoe": {
+  "name": "Автосервис",
+  "city": "Видное",
+  "address": "Белокаменное ш., 7А",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "azbuka-bleska-vidnoe": {
+  "name": "Азбука Блеска",
+  "city": "Видное",
+  "address": "Ольховая ул., 9Б",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-777-vidnoe": {
+  "name": "Автосервис 777",
+  "city": "Видное",
+  "address": "просп. Ленинского Комсомола, 1Е, корп. 1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pioner-noginsk": {
+  "name": "Пионер",
+  "city": "Ногинск",
+  "address": "Пожарный пер., 1",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehnoginsk": {
+  "name": "АвтотехНогинск",
+  "city": "Ногинск",
+  "address": "Бетонная ул., 2А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-frost-avto-noginsk": {
+  "name": "Автосервис Фрост Авто",
+  "city": "Ногинск",
+  "address": "Гаражная ул., 6",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "studio-vizar-noginsk": {
+  "name": "Studio Vizar",
+  "city": "Ногинск",
+  "address": "Рабочая ул., 24",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehnik-noginsk": {
+  "name": "АвтоТехник",
+  "city": "Ногинск",
+  "address": "Бетонная ул., 1Б",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vsenarazborku-noginsk": {
+  "name": "Всенаразборку",
+  "city": "Ногинск",
+  "address": "Бетонная ул., 1А, стр. 6",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ecoservice-noginsk": {
+  "name": "Ecoservice",
+  "city": "Ногинск",
+  "address": "Рабочая ул., 24",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-24-noginsk": {
+  "name": "Шиномонтаж 24",
+  "city": "Ногинск",
+  "address": "Рабочая ул., 24",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "feshen-deteyling-noginsk": {
+  "name": "Фешен Детейлинг",
+  "city": "Ногинск",
+  "address": "Рабочая ул., 2, стр. 2",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "puls-avto-noginsk": {
+  "name": "Пульс Авто",
+  "city": "Ногинск",
+  "address": "Электростальское ш., 23А, стр. 4",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "v-trak-elektrostal": {
+  "name": "В-трак",
+  "city": "Электросталь",
+  "address": "Красная ул., 15, стр. 2",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-bez-pokraski-ru-elektrostal": {
+  "name": "Авто-Без-Покраски.ру",
+  "city": "Электросталь",
+  "address": "Красная ул., 5",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "polaris-elektrostal": {
+  "name": "Поларис",
+  "city": "Электросталь",
+  "address": "Красная ул., 01",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vimana-avto-elektrostal": {
+  "name": "Вимана авто",
+  "city": "Электросталь",
+  "address": "Пионерская ул., 22",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vinylworks-elektrostal": {
+  "name": "Vinylworks",
+  "city": "Электросталь",
+  "address": "Авангардный пр., 15",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "antikor-elektrostal": {
+  "name": "Антикор",
+  "city": "Электросталь",
+  "address": "Западная ул., 8В",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzov-market-elektrostal": {
+  "name": "Кузов Маркет",
+  "city": "Электросталь",
+  "address": "Первомайская ул., 3",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "alpochinim-elektrostal": {
+  "name": "АльПочиним",
+  "city": "Электросталь",
+  "address": "ул. Мира, 27В",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "altservis-elektrostal": {
+  "name": "АльтСервис",
+  "city": "Электросталь",
+  "address": "1-й Криулинский пр., 4К1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "chinim-krasim-korolev": {
+  "name": "Чиним Красим",
+  "city": "Королёв",
+  "address": "Заовражная ул., 7, микрорайон Болшево",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ao-ort-avto-korolev": {
+  "name": "АО Орт-авто",
+  "city": "Королёв",
+  "address": "Северная ул., 4А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-lekar-korolev": {
+  "name": "Авто Лекарь",
+  "city": "Королёв",
+  "address": "ул. Корсакова, 1А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "u-ruslana-korolev": {
+  "name": "У Руслана",
+  "city": "Королёв",
+  "address": "Северная ул., 4А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-korolev": {
+  "name": "Шиномонтаж",
+  "city": "Королёв",
+  "address": "ул. Орджоникидзе, 35Г",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ashe-korolev": {
+  "name": "Аше",
+  "city": "Королёв",
+  "address": "Станционная ул., 71, микрорайон Болшево",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-doktor-korolev": {
+  "name": "Авто Доктор",
+  "city": "Королёв",
+  "address": "Ярославский пр., 9А",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-korolev-2": {
+  "name": "Шиномонтаж",
+  "city": "Королёв",
+  "address": "Коммунальная ул., 1",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mega-master-himki": {
+  "name": "Мега-Мастер",
+  "city": "Химки",
+  "address": "Московская область",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehnokartel-himki": {
+  "name": "ТехноКартель",
+  "city": "Химки",
+  "address": "Союзная ул., с4",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vysshaya-liga-himki": {
+  "name": "Высшая лига",
+  "city": "Химки",
+  "address": "Ленинградское ш., вл5Б",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "zvezdochka-himki": {
+  "name": "Звёздочка",
+  "city": "Химки",
+  "address": "2-й Северный пр., с6",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "auto-grup-himki": {
+  "name": "Auto-grup",
+  "city": "Химки",
+  "address": "ул. Репина, вл16к3",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "french-taun-himki": {
+  "name": "Френч Таун",
+  "city": "Химки",
+  "address": "Коммунальный пр., 12/2",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "amt-centr-mytischi": {
+  "name": "АМТ центр",
+  "city": "Мытищи",
+  "address": "Октябрьский просп., 4В",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "viana-mytischi": {
+  "name": "Виана",
+  "city": "Мытищи",
+  "address": "ул. Коминтерна, 13",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "rihtochka-mytischi": {
+  "name": "РихТочка",
+  "city": "Мытищи",
+  "address": "пр. № 497, 1, стр. 2",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "berezhnaya-moyka-mytischi": {
+  "name": "Бережная мойка",
+  "city": "Мытищи",
+  "address": "Олимпийский просп., вл13с1кБ",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remin-mytischi": {
+  "name": "Ремин",
+  "city": "Мытищи",
+  "address": "пр. № 497, 1, стр. 5",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pitstopcentr-mytischi": {
+  "name": "ПитСтопЦентр",
+  "city": "Мытищи",
+  "address": "ул. Веры Волошиной, 54Б",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-koles-mytischi": {
+  "name": "Мастер Колёс",
+  "city": "Мытищи",
+  "address": "Пограничная ул., 11",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kasper-mytischi": {
+  "name": "Каспер",
+  "city": "Мытищи",
+  "address": "ул. Академика Каргина, вл35Ас1",
+  "image": "https://images.pexels.com/photos/28984433/pexels-photo-28984433.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garazh-na-chas-mytischi": {
+  "name": "Гараж на час",
+  "city": "Мытищи",
+  "address": "Кирпичная ул., 3, стр. 2",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "indep-servis-pushkino": {
+  "name": "Индеп сервис",
+  "city": "Пушкино",
+  "address": "Учинская ул., 20, стр. 5",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "svpglass-pushkino": {
+  "name": "SvpGlass",
+  "city": "Пушкино",
+  "address": "Учинская ул., 6Г",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-disk-pushkino": {
+  "name": "Мастер Диск",
+  "city": "Пушкино",
+  "address": "Толстовская ул., 30, микрорайон Клязьма",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mtt-pushkino": {
+  "name": "МТТ",
+  "city": "Пушкино",
+  "address": "Ярославское ш., 1",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-pushkino": {
+  "name": "Автосервис",
+  "city": "Пушкино",
+  "address": "Луговая ул., 45",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sv-auto-pushkino": {
+  "name": "Sv-auto",
+  "city": "Пушкино",
+  "address": "Западная ул., 2",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "lyuksavto-pushkino": {
+  "name": "ЛюксАвто",
+  "city": "Пушкино",
+  "address": "2-й Фабричный пр., 16",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "armand-pushkino": {
+  "name": "Арманд",
+  "city": "Пушкино",
+  "address": "ул. Инессы Арманд, 24Б",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
