@@ -4198,5 +4198,251 @@
   "city": "Реутов",
   "address": "ш. Автомагистраль Москва - Нижний Новгород, 1",
   "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "legkovoy-avtoservis-bronnicy-2": {
+  "name": "Легковой Автосервис",
+  "city": "Бронницы",
+  "address": "Бронницы",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vj-auto-club-vysokovsk-2": {
+  "name": "Vj auto club",
+  "city": "Высоковск",
+  "address": "Высоковск",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-lobnya-2": {
+  "name": "Автосервис",
+  "city": "Лобня",
+  "address": "Лобня",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vt-inzhiniring-lytkarino-2": {
+  "name": "ВТ-инжиниринг",
+  "city": "Лыткарино",
+  "address": "Лыткарино",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "izgotovlenie-klyuchey-lytkarino-2": {
+  "name": "Изготовление ключей",
+  "city": "Лыткарино",
+  "address": "Лыткарино",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dzhi-es-motors-lytkarino-2": {
+  "name": "Джи Эс Моторс",
+  "city": "Лыткарино",
+  "address": "Лыткарино",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pitstop-stupino-2": {
+  "name": "ПитСтоп",
+  "city": "Ступино",
+  "address": "Ступино",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "evro-plyus-chehov-2": {
+  "name": "Евро-плюс",
+  "city": "Чехов",
+  "address": "Чехов",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "chisto-i-bystro-chehov-2": {
+  "name": "Чисто и быстро",
+  "city": "Чехов",
+  "address": "Чехов",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtostil-original-egorevsk-2": {
+  "name": "Автостиль original",
+  "city": "Егорьевск",
+  "address": "Егорьевск",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-voskresensk-2": {
+  "name": "Автомойка",
+  "city": "Воскресенск",
+  "address": "Воскресенск",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "yokohama-centr-egorevsk-2": {
+  "name": "Yokohama центр",
+  "city": "Егорьевск",
+  "address": "Егорьевск",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ivanor-voskresensk-2": {
+  "name": "Иванор",
+  "city": "Воскресенск",
+  "address": "Воскресенск",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "finavto-egorevsk-2": {
+  "name": "Финавто",
+  "city": "Егорьевск",
+  "address": "Егорьевск",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "proficarservise-ramenskoe-2": {
+  "name": "ProfiCarServise",
+  "city": "Раменское",
+  "address": "Раменское",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-777-vidnoe-2": {
+  "name": "Шиномонтаж 777",
+  "city": "Видное",
+  "address": "Видное",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehvidnoe-ru-2": {
+  "name": "Tehvidnoe.ru",
+  "city": "Видное",
+  "address": "Видное",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "formula-1-elektrostal-2": {
+  "name": "Формула-1",
+  "city": "Электросталь",
+  "address": "Электросталь",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-mks-korolev-2": {
+  "name": "Автотехцентр МКС",
+  "city": "Королёв",
+  "address": "Королёв",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mobilnyy-shinomontazh-korolev-2": {
+  "name": "Мобильный шиномонтаж",
+  "city": "Королёв",
+  "address": "Королёв",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "probleskcar-himki-2": {
+  "name": "ProbleskCar",
+  "city": "Химки",
+  "address": "Химки",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "akst-company-himki-2": {
+  "name": "Akst Company",
+  "city": "Химки",
+  "address": "Химки",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "star-bmw-himki-2": {
+  "name": "Star-BMW",
+  "city": "Химки",
+  "address": "Химки",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "motoservis-ag-mytischi-2": {
+  "name": "Мотосервис АГ",
+  "city": "Мытищи",
+  "address": "Мытищи",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kos-pushkino-2": {
+  "name": "Кос",
+  "city": "Пушкино",
+  "address": "Пушкино",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vkrug-domodedovo-2": {
+  "name": "Vkrug",
+  "city": "Домодедово",
+  "address": "Домодедово",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "prodisk-serpuhov-2": {
+  "name": "PROdisk",
+  "city": "Серпухов",
+  "address": "Серпухов",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtospa-lyubercy-2": {
+  "name": "АвтоСпа",
+  "city": "Люберцы",
+  "address": "Люберцы",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "servisshin-rus-sergiev-posad-2": {
+  "name": "СервисШин. рус",
+  "city": "Сергиев Посад",
+  "address": "Сергиев Посад",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotehcentr-na-centralnoy-sergiev-p-2": {
+  "name": "Автотехцентр на Центральной",
+  "city": "Сергиев Посад",
+  "address": "Сергиев Посад",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-orehovo-zuevo-2": {
+  "name": "Автомойка",
+  "city": "Орехово-Зуево",
+  "address": "Орехово-Зуево",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "nadezhda-orehovo-zuevo-2": {
+  "name": "Надежда",
+  "city": "Орехово-Зуево",
+  "address": "Орехово-Зуево",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomasterskaya-fryazino-2": {
+  "name": "Автомастерская",
+  "city": "Фрязино",
+  "address": "Фрязино",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoprayd-schelkovo-2": {
+  "name": "АвтоПрайд",
+  "city": "Щёлково",
+  "address": "Щёлково",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-istra-3": {
+  "name": "Шиномонтаж",
+  "city": "Истра",
+  "address": "Истра",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "10000-koles-dolgoprudnyy-2": {
+  "name": "10000 Колес",
+  "city": "Долгопрудный",
+  "address": "Долгопрудный",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-v-reutove-2": {
+  "name": "Тонировка в Реутове",
+  "city": "Реутов",
+  "address": "Реутов",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-krasnoarmeysk-2": {
+  "name": "Шиномонтаж",
+  "city": "Красноармейск",
+  "address": "Саратовская область, Красноармейск, территория Торговая Зона, пав2",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "praym-avto-troick-2": {
+  "name": "Прайм-Авто",
+  "city": "Троицк",
+  "address": "Челябинская область",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-174-rf-troick-2": {
+  "name": "АВТО 174 РФ",
+  "city": "Троицк",
+  "address": "Троицк",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-troick-2": {
+  "name": "Шиномонтаж",
+  "city": "Троицк",
+  "address": "ул. имени В.И. Чапаева, 4А",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
