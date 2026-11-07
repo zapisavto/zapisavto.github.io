@@ -4444,5 +4444,839 @@
   "city": "Троицк",
   "address": "ул. имени В.И. Чапаева, 4А",
   "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ark-aleks-kolomna": {
+  "name": "Арк Алекс",
+  "city": "Коломна",
+  "address": "ул. Дорфа, 6",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "maxton-kolomna": {
+  "name": "MaxTon",
+  "city": "Коломна",
+  "address": "Коломна, район Колычёво, ГСК Астаховский, 19",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomasterskaya-kolomna": {
+  "name": "Автомастерская",
+  "city": "Коломна",
+  "address": "Московская область, Коломна, район Колычёво",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mehanika-pro-kolomna": {
+  "name": "Механика про",
+  "city": "Коломна",
+  "address": "ул. Яна Грунта, 14",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-kolomna": {
+  "name": "Автомойка",
+  "city": "Коломна",
+  "address": "Коломна",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-u-grishi-kolomna": {
+  "name": "Шиномонтаж у Гриши",
+  "city": "Коломна",
+  "address": "ул. Ленина, 137Б",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "mir-mashin-kolomna": {
+  "name": "Мир машин",
+  "city": "Коломна",
+  "address": "ул. Бирюкова, 47",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-moto-vyezdnoy-shinomontazh-kolomna": {
+  "name": "Авто-МОТО- выездной шиномонтаж",
+  "city": "Коломна",
+  "address": "Московская область, Коломна, улица Октябрьской Революции",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "deteyling-centr-kolomna": {
+  "name": "Детейлинг центр",
+  "city": "Коломна",
+  "address": "Комсомольская ул., 36А",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "radius-h-kolomna": {
+  "name": "Радиус-Х",
+  "city": "Коломна",
+  "address": "ул. Октябрьской Революции, 146",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-luhovicy": {
+  "name": "Шиномонтаж",
+  "city": "Луховицы",
+  "address": "ул. Гагарина, 43, корп. 1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stilavto-luhovicy": {
+  "name": "СтильАвто",
+  "city": "Луховицы",
+  "address": "Московская область, Луховицы, Безымянный переулок",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-luhovicy-2": {
+  "name": "Шиномонтаж",
+  "city": "Луховицы",
+  "address": "Парковая ул., 7",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "russkiytyuning-luhovicy": {
+  "name": "РусскийТюнинг",
+  "city": "Луховицы",
+  "address": "ул. Гагарина, 43Б",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sfera-luhovicy": {
+  "name": "Сфера",
+  "city": "Луховицы",
+  "address": "ул. Жуковского, 9А",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "carcode-luhovicy": {
+  "name": "CarCode",
+  "city": "Луховицы",
+  "address": "ул. Пушкина, 133",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "forsazh-likino-dulevo": {
+  "name": "Форсаж",
+  "city": "Ликино-Дулево",
+  "address": "ул. Калинина, 11, Ликино-Дулёво",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "karsavto-likino-dulevo": {
+  "name": "КарсАвто",
+  "city": "Ликино-Дулево",
+  "address": "ул. Новикова-Прибоя, 1А, Ликино-Дулёво",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "motodulevo-likino-dulevo": {
+  "name": "МотоДулево",
+  "city": "Ликино-Дулево",
+  "address": "6-й пр. 1905 года, 1, Ликино-Дулёво",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-roshal": {
+  "name": "Автосервис",
+  "city": "Рошаль",
+  "address": "ул. Карла Либкнехта, 35",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-likino-dulevo": {
+  "name": "Шиномонтаж",
+  "city": "Ликино-Дулево",
+  "address": "Советская ул., 10, Ликино-Дулёво",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pit-stop-shatura": {
+  "name": "Pit Stop",
+  "city": "Шатура",
+  "address": "Школьная ул., 26",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-1-likino-dulevo": {
+  "name": "Шиномонтаж № 1",
+  "city": "Ликино-Дулево",
+  "address": "Советская ул., 41, Ликино-Дулёво",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-forsazh-likino-dulevo": {
+  "name": "Тонировка Форсаж",
+  "city": "Ликино-Дулево",
+  "address": "Ликино-Дулево",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtokar-shatura": {
+  "name": "АвтоКар",
+  "city": "Шатура",
+  "address": "Транспортный пр., 3",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-elektrougli": {
+  "name": "Шиномонтаж",
+  "city": "Электроугли",
+  "address": "Большая Прудная ул., 11",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gruzovoy-legkovoy-shinomontazh": {
+  "name": "Грузовой Легковой шиномонтаж",
+  "city": "Электроугли",
+  "address": "Заводская ул., 6/1",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kobalt-protvino": {
+  "name": "Кобальт",
+  "city": "Протвино",
+  "address": "Кремёнковское ш., 9А",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shiny-i-diski-protvino": {
+  "name": "Шины и диски",
+  "city": "Протвино",
+  "address": "Восточный пр., 2",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-avtotehcentr-puschino": {
+  "name": "Автосервис, автотехцентр",
+  "city": "Пущино",
+  "address": "ул. Строителей, 2В",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtolyuks-puschino": {
+  "name": "Автолюкс",
+  "city": "Пущино",
+  "address": "Пущино, микрорайон Д, 21А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoreanimaciya-puschino": {
+  "name": "Автореанимация",
+  "city": "Пущино",
+  "address": "Грузовая ул., 5Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtolekar-yahroma": {
+  "name": "Автолекарь",
+  "city": "Яхрома",
+  "address": "Ковшинская ул., 34А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-ritet-yahroma": {
+  "name": "Авто-Ритет",
+  "city": "Яхрома",
+  "address": "Починковская ул., 19/1",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "buksir24-aprelevka": {
+  "name": "Buksir24",
+  "city": "Апрелевка",
+  "address": "Апрелевка",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "wesp-garage-aprelevka": {
+  "name": "Wesp Garage",
+  "city": "Апрелевка",
+  "address": "Комсомольская ул., 26Г",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "evakuator-volokolamsk-i-tehpomosch-na": {
+  "name": "Эвакуатор Волоколамск и техпомощь на дороге",
+  "city": "Волоколамск",
+  "address": "Рижское ш., 30",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "a-r-s-dubna": {
+  "name": "A. R. S",
+  "city": "Дубна",
+  "address": "Московская область, Дубна, проезд Энергетиков",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pit-stop-dubna": {
+  "name": "Пит-Стоп",
+  "city": "Дубна",
+  "address": "Ленинградская ул., 27Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "servis-s-dubna": {
+  "name": "Сервис С",
+  "city": "Дубна",
+  "address": "Дубна",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka24-dubna": {
+  "name": "Автомойка24",
+  "city": "Дубна",
+  "address": "Дубна",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "koleso-volokolamsk": {
+  "name": "Колесо",
+  "city": "Волоколамск",
+  "address": "Северное ш., 28Д",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-na-levom-dubna": {
+  "name": "Автосервис на левом",
+  "city": "Дубна",
+  "address": "Октябрьская ул., 8В",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-na-rizhskom-volokolamsk": {
+  "name": "Шиномонтаж на Рижском",
+  "city": "Волоколамск",
+  "address": "Рижское ш., 20, стр. 3А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "delay-vip-dubna": {
+  "name": "Делай Вип",
+  "city": "Дубна",
+  "address": "Ленинградская ул., 42",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garazh-2020-dubna": {
+  "name": "Гараж 2020",
+  "city": "Дубна",
+  "address": "Северный пер., 2",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gruzovoy-avtoservis-avtotehcentr": {
+  "name": "Грузовой Автосервис Автотехцентр",
+  "city": "Краснознаменск",
+  "address": "Берёзовая аллея, 1/2",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sirius-krasnoznamensk": {
+  "name": "Сириус",
+  "city": "Краснознаменск",
+  "address": "Краснознаменск",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bratstvo-stali-kubinka": {
+  "name": "Братство стали",
+  "city": "Кубинка",
+  "address": "Можайское ш., 236",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "azon-rf-kubinka": {
+  "name": "Азон.рф",
+  "city": "Кубинка",
+  "address": "Можайское ш., 163А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remont-gazeley-moskovskiy": {
+  "name": "Ремонт газелей",
+  "city": "Московский",
+  "address": "ул. Хабарова, 11, стр. 2",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovka-sa-ni-moskovskiy": {
+  "name": "Тонировка Sa&Ni",
+  "city": "Московский",
+  "address": "Московский",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "turbo-moskovskiy": {
+  "name": "Турбо",
+  "city": "Московский",
+  "address": "ул. Хабарова, 1, стр. 2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-moskovskiy": {
+  "name": "Шиномонтаж",
+  "city": "Московский",
+  "address": "Московский, 1-й микрорайон, 23Е",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "carpaint-moskovskiy": {
+  "name": "CarPaint",
+  "city": "Московский",
+  "address": "Московский, гаражный кооператив Берёзка, 115",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-taldom": {
+  "name": "АвтоСервис",
+  "city": "Талдом",
+  "address": "Советская ул., 19А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinka-moskovskiy": {
+  "name": "Шинка",
+  "city": "Московский",
+  "address": "ул. Академика Чумакова, 161",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoto-sto-moskovskiy": {
+  "name": "Автомото СТО",
+  "city": "Московский",
+  "address": "ул. Хабарова, 11соор4",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "stavshin-moskovskiy": {
+  "name": "Ставшин",
+  "city": "Московский",
+  "address": "Московский, 1-й микрорайон, 158, корп. 3",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-01-scherbinka": {
+  "name": "Автомойка 01",
+  "city": "Щербинка",
+  "address": "Симферопольское ш., 3",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "aero-auto-scherbinka": {
+  "name": "Aero-auto",
+  "city": "Щербинка",
+  "address": "Молодёжная ул., 1А",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-scherbinka": {
+  "name": "Шиномонтаж",
+  "city": "Щербинка",
+  "address": "Железнодорожная ул., 51А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-hotkovo": {
+  "name": "Шиномонтаж",
+  "city": "Хотьково",
+  "address": "1-я Овражная ул., 17",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzoff-scherbinka": {
+  "name": "Кузoff",
+  "city": "Щербинка",
+  "address": "ул. Космонавтов, 1Б",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garantzap-scherbinka": {
+  "name": "ГарантЗап",
+  "city": "Щербинка",
+  "address": "Южная ул., 4А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-gruzovoy-i-legkovoy-hotkovo": {
+  "name": "Шиномонтаж грузовой и легковой",
+  "city": "Хотьково",
+  "address": "ул. Михеенко, 23",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-scherbinka": {
+  "name": "Автосервис",
+  "city": "Щербинка",
+  "address": "Щербинка",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-klinik-scherbinka": {
+  "name": "Авто Клиник",
+  "city": "Щербинка",
+  "address": "ул. Космонавтов, 1Б, стр. 30",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehpomosch-na-doroge-hotkovo": {
+  "name": "Техпомощь на дороге",
+  "city": "Хотьково",
+  "address": "Московская область, Сергиево-Посадский городской округ",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tyre-vladimir": {
+  "name": "Tyre",
+  "city": "Владимир",
+  "address": "Владимир",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ivanor-vladimir": {
+  "name": "Ivanor",
+  "city": "Владимир",
+  "address": "Ноябрьская ул., 129",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "evakuator-vladimir": {
+  "name": "Эвакуатор",
+  "city": "Владимир",
+  "address": "Тракторная ул., 1А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosfera-vladimir": {
+  "name": "АвтоСфера",
+  "city": "Владимир",
+  "address": "Владимир",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-kovrov": {
+  "name": "Авто",
+  "city": "Ковров",
+  "address": "ул. Абельмана, 34А",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-kovrov": {
+  "name": "Шиномонтаж",
+  "city": "Ковров",
+  "address": "пр. Тургенева, 3",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pneumatico-kovrov": {
+  "name": "Pneumatico",
+  "city": "Ковров",
+  "address": "Владимирская область, Ковров, улица Космонавтов",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-shin-kovrov": {
+  "name": "Мастер шин",
+  "city": "Ковров",
+  "address": "Комсомольская ул., 2А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-avtoshin-kovrov": {
+  "name": "СТО автошин",
+  "city": "Ковров",
+  "address": "Муромская ул., 6А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-kovrov": {
+  "name": "Автосервис",
+  "city": "Ковров",
+  "address": "ул. Пугачёва, 32",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "antikor-centr-kovrov": {
+  "name": "Антикор центр",
+  "city": "Ковров",
+  "address": "Еловая ул., 90А",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-avtoplyus-kovrov": {
+  "name": "Шиномонтаж Автоплюс",
+  "city": "Ковров",
+  "address": "ул. Свердлова, 85",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoremont-kovrov": {
+  "name": "Авторемонт",
+  "city": "Ковров",
+  "address": "Владимирская ул., 59А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "remavto-murom": {
+  "name": "РемАвто",
+  "city": "Муром",
+  "address": "Орловский пр., 1",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gruzovoy-shinomontazh-aleksandrov": {
+  "name": "Грузовой шиномонтаж",
+  "city": "Александров",
+  "address": "Двориковское ш., 9А",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "asn-aleksandrov": {
+  "name": "Асн",
+  "city": "Александров",
+  "address": "Южный пр., 15Б",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-murom": {
+  "name": "Шиномонтаж",
+  "city": "Муром",
+  "address": "ул. Куйбышева, 2Е",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "33-mili-aleksandrov": {
+  "name": "33 Мили",
+  "city": "Александров",
+  "address": "Киржачская ул., 1Б",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "znakomyy-svarschik-aleksandrov": {
+  "name": "Знакомый Сварщик",
+  "city": "Александров",
+  "address": "ул. Топоркова, 38",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "eva-aleksandrov": {
+  "name": "Eva",
+  "city": "Александров",
+  "address": "Владимирская область, Александровский муниципальный округ, муниципальное образование город Александров",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dva-sezona-aleksandrov": {
+  "name": "Два Сезона",
+  "city": "Александров",
+  "address": "Владимирская область",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "atomic-deteil-aleksandrov": {
+  "name": "Atomic Deteil",
+  "city": "Александров",
+  "address": "Наумовская ул., 19",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-svarka-1-gus-hrustalnyy": {
+  "name": "Авто-Сварка № 1",
+  "city": "Гусь-Хрустальный",
+  "address": "ул. Старых Большевиков, 3А",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehavto-gus-hrustalnyy": {
+  "name": "ТехАвто",
+  "city": "Гусь-Хрустальный",
+  "address": "Курловская ул., 4",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "startshina-kaluga": {
+  "name": "СтартШина",
+  "city": "Калуга",
+  "address": "Грабцевское ш., 20",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kolesiko-40-kaluga": {
+  "name": "Колёсико 40",
+  "city": "Калуга",
+  "address": "Московская ул., 288",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-sputnik40-kaluga": {
+  "name": "Автосервис Спутник40",
+  "city": "Калуга",
+  "address": "Киёвский пр., 1Б",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pdr-levsha-obninsk": {
+  "name": "Pdr levsha",
+  "city": "Обнинск",
+  "address": "Обнинск, территория ГК Полёт, 15/1",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "maksservis-obninsk": {
+  "name": "МаксСервис",
+  "city": "Обнинск",
+  "address": "Калужская область, Обнинск, микрорайон 42",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "steklotonik-obninsk": {
+  "name": "СтеклоTonik",
+  "city": "Обнинск",
+  "address": "Кабицынская ул., 13",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "refresh40-obninsk": {
+  "name": "Refresh40",
+  "city": "Обнинск",
+  "address": "ул. Королёва, 13А",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "scstudio-obninsk": {
+  "name": "SCstudio",
+  "city": "Обнинск",
+  "address": "Кабицынская ул., 9А",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-tonirovaniya-40-ton-obninsk": {
+  "name": "Центр тонирования 40-ton",
+  "city": "Обнинск",
+  "address": "ул. Королёва, 13А",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomantazh-obninsk": {
+  "name": "Шиномантаж",
+  "city": "Обнинск",
+  "address": "Обнинск",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vm-toner-obninsk": {
+  "name": "Vm Toner",
+  "city": "Обнинск",
+  "address": "Обнинск, территория ГК Дружок, 6",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "podkova-obninsk": {
+  "name": "Подкова",
+  "city": "Обнинск",
+  "address": "Киевское ш., 102",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "koleso71-tula": {
+  "name": "Колесо71",
+  "city": "Тула",
+  "address": "ул. Михеева, 10",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtohirurg-tula": {
+  "name": "Автохирург",
+  "city": "Тула",
+  "address": "Рязанская ул., 13",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh71-tula": {
+  "name": "Шиномонтаж71",
+  "city": "Тула",
+  "address": "Оборонная ул., 12/1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "motor-servis-tula": {
+  "name": "Мотор-Сервис",
+  "city": "Тула",
+  "address": "Рязанская ул., 7А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-ekspress-zameny-masla-tula": {
+  "name": "Центр экспресс-замены масла",
+  "city": "Тула",
+  "address": "ул. Мосина, 33В",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "volkswagen-korsgrupp-tula": {
+  "name": "Volkswagen, КорсГрупп",
+  "city": "Тула",
+  "address": "Октябрьская ул., 316",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avgust-plus-tula": {
+  "name": "Август plus",
+  "city": "Тула",
+  "address": "ул. Мезенцева, 29",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tarasov-i-ko-tula": {
+  "name": "Тарасов и Ко",
+  "city": "Тула",
+  "address": "ул. Сурикова, 12Б",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazhechka-tula": {
+  "name": "Шиномонтажечка",
+  "city": "Тула",
+  "address": "ул. Карла Маркса, 8",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vodopad-tula": {
+  "name": "Водопад",
+  "city": "Тула",
+  "address": "Новомедвенский пр., 4А",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto71-novomoskovsk": {
+  "name": "Сто71",
+  "city": "Новомосковск",
+  "address": "ул. Космонавтов, 41",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinnyy-centr-novomoskovsk": {
+  "name": "Шинный центр",
+  "city": "Новомосковск",
+  "address": "ул. Трудовые Резервы, 47Г",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "nskavto-novomoskovsk": {
+  "name": "НскАвто",
+  "city": "Новомосковск",
+  "address": "Новомосковск",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotoner-klub-novomoskovsk": {
+  "name": "Автотонер клуб",
+  "city": "Новомосковск",
+  "address": "ул. Дружбы, 25",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "art-deteyling-novomoskovsk": {
+  "name": "Арт - детейлинг",
+  "city": "Новомосковск",
+  "address": "Донское ш., 5/2",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-ot-yurka-novomoskovsk": {
+  "name": "Шиномонтаж от Юрка",
+  "city": "Новомосковск",
+  "address": "Тульская область",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ustanovochnyy-centr-avtostekla": {
+  "name": "Установочный центр автостекла",
+  "city": "Новомосковск",
+  "address": "Первомайская ул., 82Б",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodzhin-71-novomoskovsk": {
+  "name": "Автоджин 71",
+  "city": "Новомосковск",
+  "address": "ул. Маяковского, 22/2",
+  "image": "https://images.pexels.com/photos/6872595/pexels-photo-6872595.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtokompleks-novomoskovsk": {
+  "name": "АвтоКомплекс",
+  "city": "Новомосковск",
+  "address": "ул. Космонавтов, 20Б",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehalyans-novomoskovsk": {
+  "name": "ТехАльянс",
+  "city": "Новомосковск",
+  "address": "ул. Мира, 64",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoe-atele-ryazan": {
+  "name": "Кузовное Ателье",
+  "city": "Рязань",
+  "address": "Куйбышевское ш., 41А",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodizayn-ryazan": {
+  "name": "Автодизайн",
+  "city": "Рязань",
+  "address": "М-5 Урал, 196-й километр, 12, стр. 12",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "prestizh-ryazan": {
+  "name": "Престиж",
+  "city": "Рязань",
+  "address": "ул. Зубковой, 18Г, район Песочня",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-i-shinomontazh-ryazan": {
+  "name": "Автомойка и шиномонтаж",
+  "city": "Рязань",
+  "address": "ул. Есенина, 5",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtokomfort-ak62-ryazan": {
+  "name": "Автокомфорт Ак62",
+  "city": "Рязань",
+  "address": "пр. Яблочкова, 5В",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "yuzhnyy-ryazan": {
+  "name": "Южный",
+  "city": "Рязань",
+  "address": "Рязань, район Сысоево, 17",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-reanimacii-koles-ryazan": {
+  "name": "Центр реанимации колес",
+  "city": "Рязань",
+  "address": "Голенчинское ш., 12",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoy-remont-ryazan": {
+  "name": "Кузовной ремонт",
+  "city": "Рязань",
+  "address": "Куйбышевское ш., 31, корп. 2",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ava-motors-ryazan": {
+  "name": "Ава Моторс",
+  "city": "Рязань",
+  "address": "1-я Железнодорожная ул., 14, стр. 1",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kolobokshina-ryazan": {
+  "name": "Колобокшина",
+  "city": "Рязань",
+  "address": "Высоковольтная ул., 50А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tsc-u-treh-dorog-kasimov": {
+  "name": "ТСЦ у трех дорог",
+  "city": "Касимов",
+  "address": "Касимов, микрорайон Приокский, 32",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "horoshiy-shinomontazh-kasimov": {
+  "name": "Хороший шиномонтаж",
+  "city": "Касимов",
+  "address": "Загородная ул., 12Д",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "krosh-kasimov": {
+  "name": "Крош",
+  "city": "Касимов",
+  "address": "ул. Чижова, 12Г",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomaster-kasimov": {
+  "name": "АвтоМастер",
+  "city": "Касимов",
+  "address": "Касимов, микрорайон Черёмушки, микрорайон Пригородный, 166А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
