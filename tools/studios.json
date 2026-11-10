@@ -5278,5 +5278,17 @@
   "city": "Касимов",
   "address": "Касимов, микрорайон Черёмушки, микрорайон Пригородный, 166А",
   "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "legioner-avto-ryazan": {
+  "name": "Легионер-Авто",
+  "city": "Рязань",
+  "address": "Муромское ш., с4",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "adrayv62-ryazan": {
+  "name": "Адрайв62",
+  "city": "Рязань",
+  "address": "Муромское ш., с2Б",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
