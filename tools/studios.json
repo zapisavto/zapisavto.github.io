@@ -5290,5 +5290,515 @@
   "city": "Рязань",
   "address": "Муромское ш., с2Б",
   "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pit-stop-arzamas": {
+  "name": "Пит стоп",
+  "city": "Арзамас",
+  "address": "ул. Ленина, 35",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtostop-arzamas": {
+  "name": "АвтоСтоп",
+  "city": "Арзамас",
+  "address": "ул. Володарского, 200",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosteklo-arzamas": {
+  "name": "Автостекло",
+  "city": "Арзамас",
+  "address": "ул. Красный Путь, 43",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "inter-auto-arzamas": {
+  "name": "Inter Auto",
+  "city": "Арзамас",
+  "address": "ул. Володарского, 85",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kontur-arzamas": {
+  "name": "Контур",
+  "city": "Арзамас",
+  "address": "Складская ул., 8",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoliga-arzamas": {
+  "name": "Автолига",
+  "city": "Арзамас",
+  "address": "ул. 9 Мая, 2/1",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtosapozhnik-arzamas": {
+  "name": "Автосапожник",
+  "city": "Арзамас",
+  "address": "Нижегородская область, Арзамас, 8-й микрорайон",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-53-arzamas": {
+  "name": "Шиномонтаж 53",
+  "city": "Арзамас",
+  "address": "Арзамас, 12-й микрорайон, 12",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ekspert-arzamas": {
+  "name": "Эксперт",
+  "city": "Арзамас",
+  "address": "ул. Ленина, 109",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-arzamas": {
+  "name": "Шиномонтаж",
+  "city": "Арзамас",
+  "address": "ул. Калинина, 45",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-bor": {
+  "name": "Шиномонтаж",
+  "city": "Бор",
+  "address": "Нижегородская область, Бор, улица Фомина",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ohotnik-bogorodsk": {
+  "name": "Охотник",
+  "city": "Богородск",
+  "address": "ул. Ленина, 344",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-shin-bor": {
+  "name": "Мастер Шин",
+  "city": "Бор",
+  "address": "Нижегородская область, Бор, улица Толстого",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-bor-2": {
+  "name": "Шиномонтаж",
+  "city": "Бор",
+  "address": "Республиканская ул., 39уч2",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomasterskaya-balahna": {
+  "name": "Автомастерская",
+  "city": "Балахна",
+  "address": "Нижегородская область, Балахна, посёлок Бумажников",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "nizkiy-profil-bor": {
+  "name": "Низкий профиль",
+  "city": "Бор",
+  "address": "ул. Максима Горького, 93",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzovnoy-remont-bor": {
+  "name": "Кузовной Ремонт",
+  "city": "Бор",
+  "address": "ул. Лазо, 36",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bez-pokrasa-bogorodsk": {
+  "name": "Без покраса",
+  "city": "Богородск",
+  "address": "ул. Маяковского, 80А",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-plyus-bor": {
+  "name": "Авто Плюс",
+  "city": "Бор",
+  "address": "ул. 2-й Микрорайон, 40В, 2-й микрорайон",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "garage-152-vyksa": {
+  "name": "Garage 152",
+  "city": "Выкса",
+  "address": "Нижегородская область",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vyksa-servis": {
+  "name": "Выкса Сервис",
+  "city": "Выкса",
+  "address": "ул. Красные Зори, 99/1",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodrom-volodarsk": {
+  "name": "Автодром",
+  "city": "Володарск",
+  "address": "Калининская ул., 77",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoshiny-vyksa": {
+  "name": "Автошины",
+  "city": "Выкса",
+  "address": "ул. Красные Зори, 99Д",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "deteyling-52-vyksa": {
+  "name": "Детейлинг 52",
+  "city": "Выкса",
+  "address": "Запрудная ул., 4/3",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-u-dro-vyksa": {
+  "name": "Шиномонтаж у Дро",
+  "city": "Выкса",
+  "address": "ул. Ульянова, г0638",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "u-tipografii-vyksa": {
+  "name": "У типографии",
+  "city": "Выкса",
+  "address": "ул. Вавилина, 10В",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "bertone-gorodec": {
+  "name": "Бертоне",
+  "city": "Городец",
+  "address": "Курская ул., 11А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-vyksa": {
+  "name": "Шиномонтаж",
+  "city": "Выкса",
+  "address": "ул. Пушкина, 74",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtovorsma": {
+  "name": "Автоворсма",
+  "city": "Ворсма",
+  "address": "ул. Ленина, 86, корп. 9",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vernays-dzerzhinsk": {
+  "name": "Вернайс",
+  "city": "Дзержинск",
+  "address": "ул. Лермонтова, 7",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "inkomavto-dzerzhinsk": {
+  "name": "Инкомавто",
+  "city": "Дзержинск",
+  "address": "Красноармейская ул., 9А, корп. 3",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avto-servis-dzerzhinsk": {
+  "name": "Авто сервис",
+  "city": "Дзержинск",
+  "address": "Пушкинская ул., 20",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "grand-service-dzerzhinsk": {
+  "name": "Grand Service",
+  "city": "Дзержинск",
+  "address": "Дзержинск, территория ГСК Волна-1, 45",
+  "image": "https://images.pexels.com/photos/20036216/pexels-photo-20036216.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "arsenal-dzerzhinsk": {
+  "name": "Арсенал",
+  "city": "Дзержинск",
+  "address": "ул. Попова, 36Е, территория Прибрежная",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "body-shop-dzerzhinsk": {
+  "name": "Body shop",
+  "city": "Дзержинск",
+  "address": "просп. Ленина, 117И",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "prime52-dzerzhinsk": {
+  "name": "Prime52",
+  "city": "Дзержинск",
+  "address": "просп. Дзержинского, 41А",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "svoy-garazh-52-dzerzhinsk": {
+  "name": "Свой Гараж 52",
+  "city": "Дзержинск",
+  "address": "Дзержинск, территория ГСК Железнодорожный-2, 14",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kardon-dzerzhinsk": {
+  "name": "Кардон",
+  "city": "Дзержинск",
+  "address": "просп. Свердлова, 64В",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomehanic-dzerzhinsk": {
+  "name": "Avtomehanic",
+  "city": "Дзержинск",
+  "address": "Нижегородская область, Дзержинск, переулок Жуковского",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoprofil-kstovo": {
+  "name": "Автопрофиль",
+  "city": "Кстово",
+  "address": "Кстово, территория ГСК Рубин-2, 224",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "se52-kstovo": {
+  "name": "Se52",
+  "city": "Кстово",
+  "address": "Магистральная ул., 47А, стр. 1",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomaster-kulebaki": {
+  "name": "АвтоМастер",
+  "city": "Кулебаки",
+  "address": "ул. Восстания, 116",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-kstovo": {
+  "name": "Шиномонтаж",
+  "city": "Кстово",
+  "address": "ул. Куйбышева, 10А",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "wrt-kstovo": {
+  "name": "Wrt",
+  "city": "Кстово",
+  "address": "пер. Шохина, 1А",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tonirovanie-avtostekol-kstovo": {
+  "name": "Тонирование автостёкол",
+  "city": "Кстово",
+  "address": "городской округ Нижний Новгород, Кстово, переулок Шохина",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "s-t-o-koles-kstovo": {
+  "name": "С. Т. О. Колес",
+  "city": "Кстово",
+  "address": "городской округ Нижний Новгород, Кстово, проспект Капитана Рачкова",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodeloff-lyskovo": {
+  "name": "АвтоДелоФФ",
+  "city": "Лысково",
+  "address": "Лысково, территория ГСК № 5, 428/6",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoship-kstovo": {
+  "name": "АвтоШип",
+  "city": "Кстово",
+  "address": "Кстово, 4-й микрорайон, 2",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "tehcentr-grandnn-nizhniy-novgorod": {
+  "name": "Техцентр ГрандНН",
+  "city": "Нижний Новгород",
+  "address": "Базовый пр., 3, корп. 2",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "nodent-ru-nizhniy-novgorod": {
+  "name": "Nodent.ru",
+  "city": "Нижний Новгород",
+  "address": "ул. Свободы, 63",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "realnoe-koleso-nizhniy-novgorod": {
+  "name": "Реальное колесо",
+  "city": "Нижний Новгород",
+  "address": "Коломенская ул., 20А",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "elpacha-nizhniy-novgorod": {
+  "name": "Эльпача",
+  "city": "Нижний Новгород",
+  "address": "ул. Ларина, 13",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kanavino-nizhniy-novgorod": {
+  "name": "Канавино",
+  "city": "Нижний Новгород",
+  "address": "Московское ш., 17А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "manrus-nizhniy-novgorod": {
+  "name": "Манрус",
+  "city": "Нижний Новгород",
+  "address": "ул. Вторчермета, 1",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomaksimum-nizhniy-novgorod": {
+  "name": "АвтоМаксимум",
+  "city": "Нижний Новгород",
+  "address": "ул. Заводской Парк, 23Г",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "protektor-nizhniy-novgorod": {
+  "name": "Протектор",
+  "city": "Нижний Новгород",
+  "address": "ул. Плотникова, 2/1",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "betaavto-nizhniy-novgorod": {
+  "name": "БетаАвто",
+  "city": "Нижний Новгород",
+  "address": "просп. Гагарина, 168Г",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "master-avto-velikiy-novgorod": {
+  "name": "Мастер авто",
+  "city": "Великий Новгород",
+  "address": "Великая ул., 22, стр. 17",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gellaks-servis-velikiy-novgorod": {
+  "name": "Гэллакс Сервис",
+  "city": "Великий Новгород",
+  "address": "пр. Энергетиков, 10, Лужский район",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "trakpraym-velikiy-novgorod": {
+  "name": "ТракПрайм",
+  "city": "Великий Новгород",
+  "address": "Большая Санкт-Петербургская ул., 175",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "legionshin-velikiy-novgorod": {
+  "name": "ЛегионШин",
+  "city": "Великий Новгород",
+  "address": "Лужское ш., 17, корп. 2",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "domkratych-53-velikiy-novgorod": {
+  "name": "Домкратыч 53",
+  "city": "Великий Новгород",
+  "address": "ул. Державина, 19А",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "skanfiks-velikiy-novgorod": {
+  "name": "СканФикс",
+  "city": "Великий Новгород",
+  "address": "Большая Санкт-Петербургская ул., 80, стр. 1Г",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "delta-trak-velikiy-novgorod": {
+  "name": "Дельта Трак",
+  "city": "Великий Новгород",
+  "address": "Северная ул., 2, Лужский район",
+  "image": "https://images.pexels.com/photos/33749906/pexels-photo-33749906.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "kuzov-master-velikiy-novgorod": {
+  "name": "Кузов Мастер",
+  "city": "Великий Новгород",
+  "address": "Рабочая ул., 33",
+  "image": "https://images.pexels.com/photos/36184235/pexels-photo-36184235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sofiya-velikiy-novgorod": {
+  "name": "София",
+  "city": "Великий Новгород",
+  "address": "Лужское ш., 2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vmyatinnet53-pestovo": {
+  "name": "Вмятиннет53",
+  "city": "Пестово",
+  "address": "Мологская ул., 25А",
+  "image": "https://images.pexels.com/photos/17992463/pexels-photo-17992463.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomig-54-berdsk": {
+  "name": "АвтоМиг 54",
+  "city": "Бердск",
+  "address": "ул. Калинина, 3А, корп. 1",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "shinomontazh-berdsk": {
+  "name": "Шиномонтаж",
+  "city": "Бердск",
+  "address": "ул. Ленина, 138/1к1",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "careta-berdsk": {
+  "name": "CAReta",
+  "city": "Бердск",
+  "address": "Боровая ул., 85А",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtodoktor-berdsk": {
+  "name": "АвтоДоктор",
+  "city": "Бердск",
+  "address": "Промышленная ул., 2Б, корп. 3",
+  "image": "https://images.pexels.com/photos/4489776/pexels-photo-4489776.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoservis-berdsk": {
+  "name": "Автосервис",
+  "city": "Бердск",
+  "address": "Первомайская ул., 8, корп. 4",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtotemadeteyling-berdsk": {
+  "name": "АвтоТемаDетейлинг",
+  "city": "Бердск",
+  "address": "ул. Авиаторов, 30",
+  "image": "https://images.pexels.com/photos/8478240/pexels-photo-8478240.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "sto-u-maksa-berdsk": {
+  "name": "СТО у Макса",
+  "city": "Бердск",
+  "address": "Песчаная ул., 38, корп. 2",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtoimport-berdsk": {
+  "name": "АвтоИмпорт",
+  "city": "Бердск",
+  "address": "ул. Авиаторов, 60, корп. 7",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "vmyatin-net-berdsk": {
+  "name": "Вмятин нет",
+  "city": "Бердск",
+  "address": "Песчаная ул., 2",
+  "image": "https://images.pexels.com/photos/14615263/pexels-photo-14615263.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "pyatoe-koleso-novosibirsk": {
+  "name": "Пятое колесо",
+  "city": "Новосибирск",
+  "address": "Автогенная ул., 142",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "dmaster-novosibirsk": {
+  "name": "Дмастер",
+  "city": "Новосибирск",
+  "address": "ул. Свердлова, 27А",
+  "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "gbsh-1-novosibirsk": {
+  "name": "Гбш-1",
+  "city": "Новосибирск",
+  "address": "Новосибирск",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "yaguar-novosibirsk": {
+  "name": "Ягуар",
+  "city": "Новосибирск",
+  "address": "Новосибирск, микрорайон Горский, 2, корп. 1",
+  "image": "https://images.pexels.com/photos/5488732/pexels-photo-5488732.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "ren-novosibirsk": {
+  "name": "Рэн",
+  "city": "Новосибирск",
+  "address": "ул. Петухова, 49",
+  "image": "https://images.pexels.com/photos/8986033/pexels-photo-8986033.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "avtomoyka-novosibirsk": {
+  "name": "Автомойка",
+  "city": "Новосибирск",
+  "address": "Новосибирск",
+  "image": "https://images.pexels.com/photos/3807297/pexels-photo-3807297.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "klassik-novosibirsk": {
+  "name": "Классик",
+  "city": "Новосибирск",
+  "address": "Новосибирск",
+  "image": "https://images.pexels.com/photos/8986137/pexels-photo-8986137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "centr-avtobezopasnost-novosibirsk": {
+  "name": "Центр Автобезопасность",
+  "city": "Новосибирск",
+  "address": "Дачная ул., 21А",
+  "image": "https://images.pexels.com/photos/34965674/pexels-photo-34965674.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ },
+ "spasateli-novosibirsk": {
+  "name": "Спасатели",
+  "city": "Новосибирск",
+  "address": "Троллейная ул., 85А, корп. 2",
+  "image": "https://images.pexels.com/photos/8985514/pexels-photo-8985514.jpeg?auto=compress&cs=tinysrgb&w=1600"
  }
 }
