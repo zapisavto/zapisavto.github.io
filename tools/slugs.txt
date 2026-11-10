@@ -878,3 +878,5 @@ tsc-u-treh-dorog-kasimov
 horoshiy-shinomontazh-kasimov
 krosh-kasimov
 avtomaster-kasimov
+legioner-avto-ryazan
+adrayv62-ryazan
